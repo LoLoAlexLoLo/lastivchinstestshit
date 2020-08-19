@@ -2514,38 +2514,38 @@
     <!-- Back gesture -->
     <string name="back_gesture_title">Back gesture</string>
     <string name="back_arrow_gesture_title">Arrow animation</string>
-    <string name="back_arrow_gesture_summary">Show an animation when the back gesture is triggered</string>
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Vibrate when the back gesture is triggered</string>
+    <string name="back_arrow_gesture_summary">Показывать анимацию при выполнении жеста назад</string>
+    <string name="back_gesture_haptic_title">Тактильная обратная связь</string>
+    <string name="back_gesture_haptic_summary">Вибрировать при выполнении жеста назад</string>
 
     <!-- Per App Aspect Ratio -->
-    <string name="aspect_ratio_apps_enabled_title">Enable scaling</string>
-    <string name="aspect_ratio_apps_enabled_summary">Allow legacy apps to use full screen</string>
+    <string name="aspect_ratio_apps_enabled_title">Включить маштабтирование</string>
+    <string name="aspect_ratio_apps_enabled_summary">Разрешить приложениям использовать маштабтирование</string>
     <string name="aspect_ratio_apps_list_summary"></string>
-    <string name="aspect_ratio_apps_list_title">Apps allowed to use scaling</string>
-    <string name="aspect_ratio_category_title">Legacy app scaling</string>
-    <string name="aspect_ratio_apps_info">Applications need to be restarted after changes</string>
-    <string name="disabled_entry">Disabled</string>
+    <string name="aspect_ratio_apps_list_title">Устаревшие приложения которым разрешено использовать маштабтирование</string>
+    <string name="aspect_ratio_category_title">Масштабирование устаревшего приложения</string>
+    <string name="aspect_ratio_apps_info">Приложения нужно перезапустить после применения изменений</string>
+    <string name="disabled_entry">Отключено</string>
     <string name="not_ready_summary">Resolving...</string>
     <string name="resolve_failed_summary">Resolving app failed</string>
 
 
     <!-- ANBI -->
-    <string name="anbi_title">Accidental touch</string>
-    <string name="anbi_summary">Prevent interaction with the hardware buttons while the screen is being used</string>
+    <string name="anbi_title">Случайные нажатия</string>
+    <string name="anbi_summary">Предотвратить взаимодействие с аппаратными кнопками во время использования экрана</string>
 
-    <string name="volume_title">Volume Buttons</string>
+    <string name="volume_title">Кнопки громкости</string>
 
     <!-- Volume rocker music control -->
-    <string name="volume_rocker_music_controls_title">Playback control</string>
-    <string name="volume_rocker_music_controls_summary">Long-press the volume keys to seek music tracks when the screen is off</string>
+    <string name="volume_rocker_music_controls_title">Управление воспроизведением</string>
+    <string name="volume_rocker_music_controls_summary">Зажимать кнопки громкости, чтобы сменить трек когда экран выключен</string>
 
     <!-- Volume rocker wake -->
-    <string name="volume_rocker_wake_title">Wake device</string>
-    <string name="volume_rocker_wake_summary">Press volume keys to wake your device</string>
-    <string name="hardware_keys_power_category">Power Button</string>
+    <string name="volume_rocker_wake_title">Пробудить устройство</string>
+    <string name="volume_rocker_wake_summary">Пробудить устройство кнопками громкости</string>
+    <string name="hardware_keys_power_category">Кнопка питания</string>
     <!-- Volume rocker cursor control -->
-    <string name="cursor_section_header">Cursor</string>
+    <string name="cursor_section_header">Курсор</string>
     <string name="volume_key_cursor_control_title">Контролировать курсор кнопками громкости</string>
     <string name="volume_key_cursor_control_off">Выключено</string>
     <string name="volume_key_cursor_control_on">Громкость Вверх/Вниз - Курсор Влево/Вправо</string>
