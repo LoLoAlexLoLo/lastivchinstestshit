@@ -424,24 +424,24 @@
     <string name="recents_ui_title">Общие настройки интерфейса</string>
     <string name="animation_title">Анимации</string>
     <string name="button_settings">Кнопки</string>
-    <string name="rr_toast_title">Toast</string>
+    <string name="rr_toast_title">Тост-уведомление</string>
     <string name="rr_misc_title">Разное</string>
     <string name="rr_navigation_title">Навигация</string>
     <string name="rr_nav_title">Навигация</string>
     <string name="rr_qs_title">Быстрые настройки</string>
-    <string name="network_traffic_title">Network traffic</string>
+    <string name="network_traffic_title">Сетевой трафик</string>
     <string name="rr_recents_title">Меню недавних приложений</string>
     <string name="rr_buttons_title">Кнопки</string>
-    <string name="rr_call_title">Vibrations</string>
-    <string name="navigation_title">Navigation</string>
-    <string name="rr_system_settings">System</string>
-    <string name="rr_parts_title">Parts</string>
+    <string name="rr_call_title">Вибрация</string>
+    <string name="navigation_title">Навигация</string>
+    <string name="rr_system_settings">Система</string>
+    <string name="rr_parts_title">Части</string>
     <string name="qs_tile_layout_title">Layout</string>
-    <string name="lockscreen_ui_title">Lockscreen UI</string>
-    <string name="statusbar_breathing">Breathing notifications</string>
-    <string name="apps_category">Apps</string>
+    <string name="lockscreen_ui_title">Интерфейс экрана блокировки</string>
+    <string name="statusbar_breathing">Дышашие уведомления</string>
+    <string name="apps_category">Приложения</string>
     <string name="volume_key_category_title">Volume Shortcut</string>
-    <string name="connected_devices_category_title">Connected Devices</string>
+    <string name="connected_devices_category_title">Подключенные устройства</string>
 
    <!--RR Configurations Summaries-->
     <string name="status_bar_clock_summary">Customize various elements of the statusbar clock </string>
