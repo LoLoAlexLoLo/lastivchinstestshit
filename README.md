@@ -1,2 +1,2 @@
 # lastivchinstestshit
-rostick idi nahui
+😳😳 lookin kinda  fresh doe

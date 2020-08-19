@@ -2556,12 +2556,12 @@
     <string name="add_sensor_block_package_summary">Significant motion, accelerometer, linear acceleration sensors will be blocked for these apps</string>
 
     <!-- Charging animation -->
-    <string name="charging_animation_title">Pixel Charging animation</string>
+    <string name="charging_animation_title">Анимация Зарядки Pixel</string>
     <string name="charging_animation_summary">Display a brief animation when the device is plugged in</string>
 
     <!-- VoWiFi icon -->
-    <string name="vowifi_icon_title">VoWiFi icon</string>
-    <string name="vowifi_icon_summary">Display VoWiFi icon when available. Enabled by default from statusbar tuner</string>
+    <string name="vowifi_icon_title">Иконка VoWiFi</string>
+    <string name="vowifi_icon_summary">Отображать иконку VoWiFi когда доступна. По умолчанию включена</string>
 
     <!-- QS Settings button-->
     <string name="qs_footer_settings_title">Settings icon</string>
