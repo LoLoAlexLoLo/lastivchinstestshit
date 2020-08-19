@@ -14,91 +14,91 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="rr_mod_version">RR-OS version</string>
-    <string name="build_date">Build date</string>
-    <string name="mod_version_default">Default</string>
+    <string name="rr_mod_version">Версия RR-OS</string>
+    <string name="build_date">Дата сборки</string>
+    <string name="mod_version_default">По умолчанию</string>
 
     <!-- General -->
-    <string name="ok">Okay</string>
-    <string name="reset">Reset</string>
+    <string name="ok">Ок</string>
+    <string name="reset">Сбросить</string>
     <string name="dlg_reset_rr">RR</string>
-    <string name="dlg_reset_android">Default</string>
-    <string name="default_string">Default</string>
-    <string name="add">Add</string>
-    <string name="enabled">Enabled</string>
-    <string name="choose_app">Choose application</string>
-    <string name="help">Help</string>
-    <string name="reset_message">Reset all entries to default?</string>
-    <string name="attention">Attention</string>
-    <string name="restart_systemui">Restart Settings</string>
+    <string name="dlg_reset_android">По умолчанию</string>
+    <string name="default_string">По умолчанию</string>
+    <string name="add">Добавить</string>
+    <string name="enabled">Включено</string>
+    <string name="choose_app">Выбрать приложение</string>
+    <string name="help">Помощь</string>
+    <string name="reset_message">Сбросить все записи к значениям по умолчанию?</string>
+    <string name="attention">Внимание</string>
+    <string name="restart_systemui">Перезагрузить пользовательский интерфейс</string>
 
     <!-- About RR -->
-    <string name="about_rr_settings">About</string>
-    <string name="about_rr">About</string>
+    <string name="about_rr_settings">О прошивке</string>
+    <string name="about_rr">О прошивке</string>
     <string name="about_rr_summary">@null</string>
-    <string name="about_r0m_summary">Everything about the Resurrection Remix OS</string>
-    <string name="rr_donate">Donate to development</string>
-    <string name="rr_donate_summary">Show your support to Resurrection Remix OS</string>
+    <string name="about_r0m_summary">Всё о прошивке Resurrection Remix OS</string>
+    <string name="rr_donate">Пожертвовать на разработку</string>
+    <string name="rr_donate_summary">Покажите вашу поддержку Resurrection Remix OS</string>
     <string name="app_name">Resurrection Remix OS</string>
-    <string name="rr_build_type">Build type</string>
+    <string name="rr_build_type">Тип сборки</string>
 
-    <string name="status_bar_quick_qs_pulldown_title">Quick pulldown</string>
-    <string name="status_bar_quick_qs_pulldown_summary">%1$s edge of the status bar pulls down Quick Settings</string>
-    <string name="status_bar_quick_qs_pulldown_summary_left">Left</string>
-    <string name="status_bar_quick_qs_pulldown_summary_right">Right</string>
-    <string name="status_bar_quick_qs_pulldown_off">Off</string>
-    <string name="status_bar_quick_qs_pulldown_left">Left</string>
-    <string name="status_bar_quick_qs_pulldown_right">Right</string>
+    <string name="status_bar_quick_qs_pulldown_title">Быстрый доступ</string>
+    <string name="status_bar_quick_qs_pulldown_summary">%1$s край строки состояния при опускании вниз открывает панель быстрых настроек</string>
+    <string name="status_bar_quick_qs_pulldown_summary_left">Левый</string>
+    <string name="status_bar_quick_qs_pulldown_summary_right">Правый</string>
+    <string name="status_bar_quick_qs_pulldown_off">Выключен</string>
+    <string name="status_bar_quick_qs_pulldown_left">Левый</string>
+    <string name="status_bar_quick_qs_pulldown_right">Правый</string>
 
     <!-- Status bar - Battery -->
-    <string name="status_bar_battery_title">Battery indicator</string>
-    <string name="status_bar_battery_style_title">Battery style</string>
-    <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>
-    <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
-    <string name="status_bar_battery_style_circle">Circle</string>
-    <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
-    <string name="status_bar_battery_style_square">Square</string>
-    <string name="status_bar_battery_style_solid">Solid</string>
-    <string name="status_bar_battery_style_text">Text</string>
-    <string name="status_bar_battery_style_hidden">Hidden</string>
+    <string name="status_bar_battery_title">Значок батареи</string>
+    <string name="status_bar_battery_style_title">Стиль значка батареи</string>
+    <string name="status_bar_battery_style_icon_portrait">Вертикальный значок</string>
+    <string name="status_bar_battery_style_icon_landscape">Горизонтальный значок</string>
+    <string name="status_bar_battery_style_circle">Круг</string>
+    <string name="status_bar_battery_style_dotted_circle">Точечный круг</string>
+    <string name="status_bar_battery_style_square">Квадратный</string>
+    <string name="status_bar_battery_style_solid">Заполненый</string>
+    <string name="status_bar_battery_style_text">Текст</string>
+    <string name="status_bar_battery_style_hidden">Скрыт</string>
 
     <string name="status_bar_battery_style_tile_title">Override battery tile</string>
     <string name="status_bar_battery_style_tile_summary">Use same icon style as above in QS battery tile</string>
 
     <!-- Status bar - Battery custom charging symbol -->
-    <string name="text_charging_symbol_title">Custom charging symbol for text style</string>
-    <string name="text_charging_symbol_dialog">Custom charging symbol near battery percentage text</string>
-    <string name="text_charging_symbol_default">Disabled</string>
-    <string name="text_charging_symbol_flash">Flash</string>
-    <string name="text_charging_symbol_tilde">Tilde</string>
-    <string name="charging_indicator_doze_title">Show charging animation on ambient display</string>
-    <string name="charging_indicator_doze_summary">Toggle to view the charging animation on lockscreen ambient display. This setting does not apply for charging states.</string>
+    <string name="text_charging_symbol_title">Кастомный значок зарядки</string>
+    <string name="text_charging_symbol_dialog">Кастомный значок зарядки рядом с процентами</string>
+    <string name="text_charging_symbol_default">Выключен</string>
+    <string name="text_charging_symbol_flash">Молния</string>
+    <string name="text_charging_symbol_tilde">Тильда</string>
+    <string name="charging_indicator_doze_title">Показывать анимацию зарядки на экране блокировки</string>
+    <string name="charging_indicator_doze_summary">Включает показ анимации зарядки на экране блокировки(Ambient Display). </string>
 
      <!-- Ambient display battery percentage -->
-    <string name="ambient_battery_percent_title">Battery level</string> 
-    <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
+    <string name="ambient_battery_percent_title">Процент заряда батареи</string> 
+    <string name="ambient_battery_percent_summary">Показывать процент заряда батареи внизу во время сна(Ambient Display).</string>
 
     <!-- Status bar - Battery percentage -->
-    <string name="status_bar_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_battery_percentage_default">Hidden</string>
-    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
-    <string name="status_bar_battery_text_position_title">Battery percent position</string>
-    <string name="status_bar_battery_text_position_left">Left of the icon</string>
-    <string name="status_bar_battery_text_position_right">Right of the icon</string>
-    <string name="status_bar_battery_text_charging_title">Battery percentage when charging</string>
-    <string name="status_bar_battery_text_charging_summary">Always display battery percentage when charging</string>
+    <string name="status_bar_battery_percentage_title">Процент заряда батареи</string>
+    <string name="status_bar_battery_percentage_default">Скрыт</string>
+    <string name="status_bar_battery_percentage_text_inside">Внутри иконки</string>
+    <string name="status_bar_battery_percentage_text_next">Рядом с иконкой</string>
+    <string name="status_bar_battery_text_position_title">Позиция процента заряда батареи</string>
+    <string name="status_bar_battery_text_position_left">Слева от иконки</string>
+    <string name="status_bar_battery_text_position_right">Справа от иконки</string>
+    <string name="status_bar_battery_text_charging_title">Процент заряда батареи во время зарядки</string>
+    <string name="status_bar_battery_text_charging_summary">Всегда показывать процент заряда батареи во время зарядки</string>
 
     <!-- Battery percent -->
-    <string name="battery_percentage_title">Battery percentage</string>
-    <string name="battery_percentage_off">Disabled</string>
-    <string name="battery_percentage_next">Enabled</string>
-    <string name="battery_percentage_inside">Enabled (inside icon)</string>
+    <string name="battery_percentage_title">Процент заряда батареи</string>
+    <string name="battery_percentage_off">Выключен</string>
+    <string name="battery_percentage_next">Включен</string>
+    <string name="battery_percentage_inside">Включен(Внутри иконки)</string>
 
     <!-- Screenshot type  -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Take fullscreen screenshot via volume keys</string>
-    <string name="screenshot_type_partial">Drag selection on the area for screenshot via volume keys</string>
+    <string name="screenshot_type_title">Тип скриншота</string>
+    <string name="screenshot_type_fullscreen">Полный скриншот</string>
+    <string name="screenshot_type_partial">Определённая область</string>
     <string name="long_screenshot_type_title">Disable long screenshot on non partial screenshot</string>
     <string name="long_screenshot_type_summary_off">System is currently allowing user to generate long screenshot</string>
     <string name="long_screenshot_type_summary_on">System is currently allowing user to generate default screenshot</string>
