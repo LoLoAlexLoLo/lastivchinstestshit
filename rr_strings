@@ -104,97 +104,97 @@
     <string name="long_screenshot_type_summary_on">System is currently allowing user to generate default screenshot</string>
 
     <!-- Status bar - Brightness -->
-    <string name="status_bar_brightness_category">Brightness</string>
-    <string name="status_bar_brightness_slider_title">Brightness slider</string>
-    <string name="status_bar_brightness_slider_summary">Adjust brightness from the Quick Settings</string>
-    <string name="status_bar_brightness_slider_auto_title">Auto brightness</string>
-    <string name="status_bar_brightness_slider_auto_summary">Show toggle for adaptive brightness near the slider</string>
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_brightness_category">Яркость</string>
+    <string name="status_bar_brightness_slider_title">Слайдер яркости</string>
+    <string name="status_bar_brightness_slider_summary">Отображать слайдер яркости в меню быстрых настроек</string>
+    <string name="status_bar_brightness_slider_auto_title">Автоматическая яркость</string>
+    <string name="status_bar_brightness_slider_auto_summary">Переключатель автоматической регулировки яркости рядом со слайдером</string>
+    <string name="status_bar_toggle_brightness">Управление яркостью</string>
+    <string name="status_bar_toggle_brightness_summary">Регулировать яркость экрана движением пальца по строке состояния</string>
 
     <!-- Quick settings brightness slider -->
-    <string name="qs_brightness_slider_title">Brightness slider</string>
-    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
+    <string name="qs_brightness_slider_title">Слайдер яркости</string>
+    <string name="qs_brightness_slider_summary">Показывать слайдер яркости в панели быстрых настроек</string>
 
     <!-- QS Brightness Slider position -->
-    <string name="qs_brightness_slider_hide">Hide</string>
-    <string name="qs_brightness_slider_top">Top</string>
-    <string name="qs_brightness_slider_bottom">Bottom</string>
-    <string name="qs_brightness_slider_always_top">Quick Qs (top)</string>
-    <string name="qs_brightness_slider_always_bottom">Quick Qs (bottom)</string>
+    <string name="qs_brightness_slider_hide">Скрыть</string>
+    <string name="qs_brightness_slider_top">Сверху</string>
+    <string name="qs_brightness_slider_bottom">Снизу</string>
+    <string name="qs_brightness_slider_always_top">Всегда сверху</string>
+    <string name="qs_brightness_slider_always_bottom">Всегда снизу</string>
 
     <!-- ListView animation -->
-    <string name="qs_animation_title">Animation</string>
-    <string name="listview_animation_title">ListView animation</string>
-    <string name="listview_off">Default</string>
-    <string name="listview_wave_left">Wave (left)</string>
-    <string name="listview_wave_right">Wave (right)</string>
-    <string name="listview_alpha">Alpha</string>
-    <string name="listview_scale">Scale</string>
-    <string name="listview_stack_top">Stack (top)</string>
-    <string name="listview_stack_bottom">Stack (bottom)</string>
-    <string name="listview_unfold">Unfold</string>
-    <string name="listview_fold">Fold</string>
-    <string name="listview_translate_left">Translate (left)</string>
-    <string name="listview_translate_right">Translate (right)</string>
-    <string name="listview_title">List Animation</string>
-    <string name="listview_summary">Set Listview animation and interpolator </string>
-    <string name="volte_vowifi_override_title">VoWiFi override</string>
-    <string name="volte_vowifi_override_summary">Hide VoLTE when VoWiFi is available. This also overrides old style signal icon for VoWiFi.</string>
+    <string name="qs_animation_title">Анимации</string>
+    <string name="listview_animation_title">Анимация при просмотре списков</string>
+    <string name="listview_off">По умолчанию</string>
+    <string name="listview_wave_left">Волна (слева)</string>
+    <string name="listview_wave_right">Волна (справа)</string>
+    <string name="listview_alpha">Альфа</string>
+    <string name="listview_scale">Масштабирование</string>
+    <string name="listview_stack_top">Стек (сверху)</string>
+    <string name="listview_stack_bottom">Стек (снизу)</string>
+    <string name="listview_unfold">Разворачивание</string>
+    <string name="listview_fold">Сворачивание</string>
+    <string name="listview_translate_left">Переход (слева)</string>
+    <string name="listview_translate_right">Переход (справа)</string>
+    <string name="listview_title">Анимация списков</string>
+    <string name="listview_summary">Установить эффект анимации и интерполяции </string>
+    <string name="volte_vowifi_override_title">Переопределить VoWiFi</string>
+    <string name="volte_vowifi_override_summary">Скрывать VoLTE когда доступен VoWiFi. Это также отменяет значок сигнала старого стиля для VoWiFi.</string>
 
     <!-- Gesture Anywhere -->
-    <string name="gesture_anywhere_title">Gesture Anywhere</string>
-    <string name="gesture_anywhere_enabled_title">Gesture Anywhere</string>
-    <string name="gesture_anywhere_enabled_summary">Enable the Gesture Anywhere feature</string>
-    <string name="gesture_anywhere_position_title">Location</string>
-    <string name="gesture_anywhere_position_left">Left edge</string>
-    <string name="gesture_anywhere_position_right">Right edge</string>
-    <string name="gesture_anywhere_gestures_title">Gestures</string>
-    <string name="gesture_anywhere_gestures_summary">Add, remove, and edit gestures</string>
-    <string name="ga_warning_message">Looks like you have system navigation gestures enabled. These might conflict with gesture anwywhere , be careful.</string>
+    <string name="gesture_anywhere_title">Жесты везде</string>
+    <string name="gesture_anywhere_enabled_title">Жесты везде</string>
+    <string name="gesture_anywhere_enabled_summary">Включить функцию «Жесты везде»</string>
+    <string name="gesture_anywhere_position_title">Расположение</string>
+    <string name="gesture_anywhere_position_left">По левому краю</string>
+    <string name="gesture_anywhere_position_right">По правому краю</string>
+    <string name="gesture_anywhere_gestures_title">Жесты</string>
+    <string name="gesture_anywhere_gestures_summary">Добавить, удалить и редактировать жесты</string>
+    <string name="ga_warning_message">Похоже у вас выбрано управление системой с помощью жестов. Будте осторожны, это может вызвать конфликты в системе.</string>
     <!-- Label, button used to add a gesture -->
-    <string name="ga_button_add">Add gesture</string>
+    <string name="ga_button_add">Добавить жест</string>
     <!-- Label, button used to reload all gestures -->
-    <string name="ga_button_reload">Reload</string>
+    <string name="ga_button_reload">Перезагрузить</string>
     <!-- Label, button used to cancel the operation of adding a gesture -->
-    <string name="ga_button_discard">Discard</string>
+    <string name="ga_button_discard">Отменить</string>
     <!-- Label, button used to save a gesture newly created -->
-    <string name="ga_button_done">Done</string>
+    <string name="ga_button_done">Завершено</string>
     <!-- Label, prompt asking the user to enter the name of the gesture -->
-    <string name="ga_prompt_gesture_name">Name</string>
+    <string name="ga_prompt_gesture_name">Название</string>
     <!-- Error message, informs the user he needs to enter a name before saving a gesture -->
-    <string name="ga_error_missing_name">You must enter a name</string>
+    <string name="ga_error_missing_name">Вы должны ввести название</string>
     <!-- success message, tells the user where the gesture was saved -->
-    <string name="ga_save_success">Gesture saved in %s</string>
+    <string name="ga_save_success">Жест сохранён в %s</string>
     <!-- Buttons in Rename gesture dialog box -->
-    <string name="ga_rename_action">OK</string>
+    <string name="ga_rename_action">ОК</string>
     <!-- Buttons in Rename gesture dialog box -->
-    <string name="ga_cancel_action">Cancel</string>
+    <string name="ga_cancel_action">Отмена</string>
     <!-- Message displayed when the user opens the gestures settings screen -->
-    <string name="ga_gestures_loading">Loading gestures...</string>
+    <string name="ga_gestures_loading">Загрузка жестов...</string>
     <!-- Message displayed when the user has no gestures -->
-    <string name="ga_gestures_empty">No gestures</string>
+    <string name="ga_gestures_empty">Нет жестов</string>
     <!-- Title of the screen used to view/manage gestures -->
-    <string name="ga_gestures_activity">Gestures</string>
+    <string name="ga_gestures_activity">Жесты</string>
     <!-- Noun, menu item used to edit a gesture -->
-    <string name="ga_gestures_edit">Edit</string>
+    <string name="ga_gestures_edit">Редактировать</string>
     <!-- Noun, menu item used to remove a gesture -->
-    <string name="ga_gestures_delete">Delete</string>
+    <string name="ga_gestures_delete">Удалить</string>
     <!-- Message displayed when a gesture is successfully deleted -->
-    <string name="ga_gestures_delete_success">Gesture deleted</string>
+    <string name="ga_gestures_delete_success">Жест удалён</string>
     <!-- Title of dialog box -->
-    <string name="ga_gestures_rename_title">Rename gesture</string>
+    <string name="ga_gestures_rename_title">Переименовать жест</string>
     <!-- Label of gesture name field in Rename gesture dialog box -->
-    <string name="ga_gestures_rename_label">Gesture name</string>
+    <string name="ga_gestures_rename_label">Название жеста</string>
     <!-- Message, displayed when the sdcard cannot be found, 1st parameter is the name of the file that stores the gestures.  CHAR LIMIT=80 -->
-    <string name="ga_gestures_error_loading">Could not load %s. Make sure you have storage available.</string>
-    <string name="trigger_category">Trigger region</string>
-    <string name="trigger_width_title">Trigger width</string>
-    <string name="trigger_width_summary">Adjust the width of the trigger area</string>
-    <string name="trigger_top_title">Trigger position</string>
-    <string name="trigger_top_summary">Adjust the vertical postion of the trigger area</string>
-    <string name="trigger_bottom_title">Trigger height</string>
-    <string name="trigger_bottom_summary">Adjust the height of the trigger area</string>
+    <string name="ga_gestures_error_loading">Не удалось загрузить %s. Убедитесь, что у вас есть доступ к памяти.</string>
+    <string name="trigger_category">Область вызова</string>
+    <string name="trigger_width_title">Ширина области вызова</string>
+    <string name="trigger_width_summary">Установить ширину области вызова</string>
+    <string name="trigger_top_title">Расположение области вызова</string>
+    <string name="trigger_top_summary">Установить вертикальное расположение области вызова</string>
+    <string name="trigger_bottom_title">Высота области вызова</string>
+    <string name="trigger_bottom_summary">Установить высоту области вызова</string>
     <string name="gesture_anywhere_0">0px</string>
     <string name="gesture_anywhere_1">1px</string>
     <string name="gesture_anywhere_5">5px</string>
@@ -231,84 +231,85 @@
     <string name="gesture_anywhere_56">56px</string>
     <string name="gesture_anywhere_64">64px</string>
     <string name="gesture_anywhere_68">68px</string>
-    <string name="picker_activities">Activities</string>
-    <string name="select_custom_app_title">Select custom app</string>
-    <string name="select_custom_activity_title">Select custom activity</string>
-    <string name="profile_applist_title">Applications</string>
-    <string name="choose_action_title">Choose action</string>
+    <string name="picker_activities">Активности</string>
+    <string name="select_custom_app_title">Выбрать пользовательское приложение</string>
+    <string name="select_custom_activity_title">Выберите пользовательскую активность</string>
+    <string name="profile_applist_title">Приложения</string>
+    <string name="choose_action_title">Выбрать действие</string>
 
     <!-- ListView interpolator -->
-    <string name="listview_interpolator_title">ListView interpolator</string>
-    <string name="listview_accelerate_interpolator">Accelerate</string>
-    <string name="listview_decelerate_interpolator">Decelerate</string>
-    <string name="listview_accelerate_decelerate_interpolator">Accelerate and decelerate</string>
-    <string name="listview_anticipate_interpolator">Anticipate</string>
-    <string name="listview_overshoot_interpolator">Overshoot</string>
-    <string name="listview_anticipate_overshoot_interpolator">Anticipate and overshoot</string>
-    <string name="listview_bounce_interpolator">Bounce</string>
+    <string name="listview_interpolator_title">Эффекты анимации списка</string>
+    <string name="listview_accelerate_interpolator">Ускорение</string>
+    <string name="listview_decelerate_interpolator">Замедление</string>
+    <string name="listview_accelerate_decelerate_interpolator">Ускорение и замедление</string>
+    <string name="listview_anticipate_interpolator">Опережение</string>
+    <string name="listview_overshoot_interpolator">Перекрытие</string>
+    <string name="listview_anticipate_overshoot_interpolator">Опережение и перекрытие</string>
+    <string name="listview_bounce_interpolator">Отскок</string>
 
     <!-- Running services -->
-    <string name="background_processes_settings_title">Background processes</string>
+    <string name="background_processes_settings_title">Запущенные процессы</string>
 
    <!-- Keyboard and IME  -->
-   <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
-   <string name="disable_fullscreen_keyboard_summary">Landscape keyboard will never take up entire screen</string>
-   <string name="keyboard_rotation_toggle_title">Auto keyboard rotation</string>
-   <string name="keyboard_rotation_toggle_summary">Force auto-rotate when keyboard is shown</string>
-   <string name="keyboard_rotation_timeout_summary">Disables auto-rotate sensor <xliff:g id="rotate_timeout">%1$s</xliff:g> seconds after keyboard is hidden</string>
-   <string name="keyboard_rotation_dialog">This feature forces auto-rotate to turn on temporarily while the keyboard is shown.  It has no effect when auto-rotate is already enabled.</string>
-   <string name="show_enter_key_title">Show enter key</string>
-   <string name="show_enter_key_summary">Force keyboard to show enter instead of emoticon key</string>
-   <string name="keyboard_ime_title">IME Settings</string>
-   <string name="keyboard_ime_summury">Advanced IME Settings</string>
+    <string name="disable_fullscreen_keyboard_title">Отключить полноэкранную клавиатуру</string>
+    <string name="disable_fullscreen_keyboard_summary">В ландшафтном режиме клавиатура не будет разворачиваться на весь экран</string>
+    <string name="keyboard_rotation_toggle_title">Автоповорот клавиатуры</string>
+    <string name="keyboard_rotation_toggle_summary">Принудительный поворот экрана, когда показывается клавиатура</string>
+    <string name="keyboard_rotation_timeout_title">Задержка автоповорота</string>
+    <string name="keyboard_rotation_timeout_summary">Отключить датчик автоповорота, спустя <xliff:g id="rotate_timeout">%1$s</xliff:g> секунд, после скрытия клавиатуры</string>
+    <string name="keyboard_rotation_dialog">Эта функция принудительно включает автоповорот во время отображения клавиатуры и не имеет эффекта, когда автоповорот уже включен.</string>
+    <string name="show_enter_key_title">Показывать кнопку ввода</string>
+    <string name="show_enter_key_summary">Принудительно показывать кнопку ввода вместо кнопки смайликов</string>
+    <string name="keyboard_ime_title">Настройки IME</string>
+    <string name="keyboard_ime_summury">Расширенные настройки IME</string>
 
-    <string name="ime_switcher_notify">Selector notification</string>
-    <string name="ime_switcher_notify_summary">Display input method selector notification</string>
-    <string name="devs">Dev Tag</string>
+    <string name="ime_switcher_notify">Уведомление о выборе метода ввода</string>
+    <string name="ime_switcher_notify_summary">Отображать уведомление переключателя метода ввода</string>
+    <string name="devs">Разработка и поддержка</string>
     <string name="github_westcrip">https://github.com/westcripp</string>
     <string name="github_varund7726">https://github.com/varund7726</string>
-    <string name="github_akhilnarang">https://github.com/akhilnarang</string>
+    <string name="github_akhilnarang">https://github.com/akhilnaranag</string>
     <string name="github_bdogg718k">https://github.com/bdogg718k</string>
-    <string name="github_apascual89">https://github.com/apascual89</string> 
-    <string name="github_mracar">https://github.com/mracar07</string> 
-    <string name="rr">Links</string>
-    <string name="rr_website_title">Website</string>
-    <string name="rr_website_summary">Get more information about Resurrection Remix OS</string>
-    <string name="rr_forum_title">Forum</string>
-    <string name="rr_forum_summary">Be a member of Resurrection forum</string>
-    <string name="rr_source_title">Github</string>
-    <string name="rr_source_summary">Resurrection Remix OS sources</string>
+    <string name="github_apascual89">https://github.com/apascual89</string>
+    <string name="github_mracar">https://github.com/mracar07</string>
+    <string name="rr">Ссылки</string>
+    <string name="rr_website_title">Сайт</string>
+    <string name="rr_website_summary">Узнать больше о Resurrection Remix OS</string>
+    <string name="rr_telegram_title">Telegram</string>
+    <string name="rr_telegram_summary">Telegram чат</string>
+    <string name="rr_source_title">GitHub</string>
+    <string name="rr_source_summary">Исходный код Resurrection Remix OS</string>
     <string name="rr_facebook_title">Facebook</string>
-    <string name="rr_facebook_summary">Facebook community</string>
+    <string name="rr_facebook_summary">Сообщество в Facebook</string>
     <string name="rr_google_plus_title">Google</string>
-    <string name="rr_google_plus_summary">Google+ community</string>
-    <string name="rr_pb_title">PitchBlack Theme</string>
-    <string name="rr_pb_summary">Official substratum theme of Resurrection Remix OS</string>
+    <string name="rr_google_plus_summary">Сообщество в Google+</string>
+    <string name="rr_pb_title">Тема PitchBlack</string>
+    <string name="rr_pb_summary">OОфициальная Substratum тема для Resurrection Remix OS</string>
     <string name="rr_twitter_title">Twitter</string>
-    <string name="rr_twitter_summary">Twitter account</string>
-    <string name="maintainer_categorie_title">Official Devices</string>
-    <string name="title_about">About</string>
-    <string name="dev_categorie_title">Dev Tag</string>
-    <string name="rr_lockscreen_title">Lock screen</string>
-    <string name="rr_ls_gestures">System Gestures</string>
-    <string name="rr_ls_ui">Lock UI</string>
-    <string name="rr_ls_security">Security</string>
-    <string name="updater_title">Updates</string>
-    <string name="rr_themes_title">Themes</string>
-    <string name="rr_themes_rr_title">Resurrection themes</string>
-    <string name="unit_seconds">seconds</string>
-    <string name="unit_sec">seconds</string>
-    <string name="unit_milliseconds">milliseconds</string>
+    <string name="rr_twitter_summary">Аккаунт в Twitter</string>
+    <string name="maintainer_categorie_title">Официально поддерживаемые устройства</string>
+    <string name="title_about">О прошивке</string>
+    <string name="dev_categorie_title">Разработка и поддержка</string>
+    <string name="rr_lockscreen_title">Экран блокировки</string>
+    <string name="rr_ls_gestures">Жесты</string>
+    <string name="rr_ls_ui">Интерфейс экрана блокировки</string>
+    <string name="rr_ls_security">Безопасность</string>
+    <string name="updater_title">Обновления</string>
+    <string name="rr_themes_title">Темы</string>
+    <string name="rr_themes_rr_title">Темы Resurrection</string>
+    <string name="unit_seconds">секунды</string>
+    <string name="unit_sec">секунды</string>
+    <string name="unit_milliseconds">миллисекунды</string>
     <string name="unit_pixels">dp</string>
 
-    <string name="altankrk_summary">● CO-Founder \n● Head developer \n● UX designer \n● Maintainer</string>
-    <string name="varun_summary">● Head developer \n● UX designer \n● Maintainer</string>
-    <string name="andres_summary">● Developer \n● Maintainer</string>
-    <string name="akhil_summary">● Developer \n● Maintainer \n● Script master</string>
-    <string name="brian_summary">● Developer \n● Maintainer</string>
-    <string name="christopher_kardas_summary">● Moderator \n● Editor\n● Contributor</string>
-    <string name="matt_summary">● Moderator \n● Editor\n● Contributor</string>
-    <string name="justen_summary">● Moderator \n● Editor\n● Contributor</string>
+    <string name="altankrk_summary">● Сооснователь\n● Главный разработчик\n● UX дизайнер\n● Сопровождающий</string>
+    <string name="varun_summary">● Главный разработчик\n● UX дизайнер\n● Сопровождающий</string>
+    <string name="andres_summary">● Разработчик\n● Сопровождающий</string>
+    <string name="akhil_summary">● Разработчик\n● Сопровождающий\n● Скрипт мастер</string>
+    <string name="brian_summary">● Разработчик\n● Сопровождающий</string>
+    <string name="christopher_kardas_summary">● Модератор\n● Редактор\n● Помощник</string>
+    <string name="matt_summary">● Модератор\n● Редактор\n● Помощник</string>
+    <string name="justen_summary">● Разработчик\n● Сопровождающий</string>
 
     <string name="support_team_title">Moderator Tag</string>
     <string name="device_maintainers_title">Devices and maintainers</string>
