@@ -99,7 +99,7 @@
     <string name="screenshot_type_title">Тип скриншота</string>
     <string name="screenshot_type_fullscreen">Полный скриншот</string>
     <string name="screenshot_type_partial">Определённая область</string>
-    <string name="long_screenshot_type_title">Disable long screenshot on non partial screenshot</string>
+    <string name="long_screenshot_type_title">Отключить длинный скриншот</string>
     <string name="long_screenshot_type_summary_off">System is currently allowing user to generate long screenshot</string>
     <string name="long_screenshot_type_summary_on">System is currently allowing user to generate default screenshot</string>
 
