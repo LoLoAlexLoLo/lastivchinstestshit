@@ -2546,14 +2546,14 @@
     <string name="hardware_keys_power_category">Power Button</string>
     <!-- Volume rocker cursor control -->
     <string name="cursor_section_header">Cursor</string>
-    <string name="volume_key_cursor_control_title">Keyboard cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume Up/Down - Cursor Left/Right</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume Up/Down - Cursor Right/Left</string>
+    <string name="volume_key_cursor_control_title">Контролировать курсор кнопками громкости</string>
+    <string name="volume_key_cursor_control_off">Выключено</string>
+    <string name="volume_key_cursor_control_on">Громкость Вверх/Вниз - Курсор Влево/Вправо</string>
+    <string name="volume_key_cursor_control_on_reverse">Громкость Вверх/Вниз - Курсор Вправо/Влево</string>
 
     <!-- Sensor block package config-->
-    <string name="sensor_block_app_picker_title">Block sensors for these apps</string>
-    <string name="add_sensor_block_package_title">Add apps for Sensor block</string>
+    <string name="sensor_block_app_picker_title">Запретить доступ к сенсорам для этих приложений</string>
+    <string name="add_sensor_block_package_title">Добавить приложения которым запрещён доступ к сенсорам</string>
     <string name="add_sensor_block_package_summary">Significant motion, accelerometer, linear acceleration sensors will be blocked for these apps</string>
 
     <!-- Charging animation -->
@@ -2565,19 +2565,19 @@
     <string name="vowifi_icon_summary">Отображать иконку VoWiFi когда доступна. По умолчанию включена</string>
 
     <!-- QS Settings button-->
-    <string name="qs_footer_settings_title">Settings icon</string>
-    <string name="qs_settings_disable">Disable</string>
-    <string name="qs_settings_expanded_panel">Show in expanded qs panel</string>
-    <string name="qs_settings_always">Show always</string>
-    <string name="qs_footer_user_title">User switcher icon</string>
-    <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
-    <string name="qs_footer_edit_title">Edit icon</string>
-    <string name="qs_footer_edit_summary">Display the tile edit icon in quick settings footer</string>
+    <string name="qs_footer_settings_title">Иконка настроек</string>
+    <string name="qs_settings_disable">Выключить</string>
+    <string name="qs_settings_expanded_panel">Показывать в расширеных быстрых настройках</string>
+    <string name="qs_settings_always">Показывать всегда</string>
+    <string name="qs_footer_user_title">Иконка смены пользователя</string>
+    <string name="qs_footer_user_summary">Показывать иконку смены пользователя снизу быстрых настроек</string>
+    <string name="qs_footer_edit_title">Иконка изменения</string>
+    <string name="qs_footer_edit_summary">Показывать иконку изменения снизу быстрых настроек</string>
 
 
     <!-- QS data usage location -->
-    <string name="qs_data_usage_location_title">Qs Data Usage Location</string>
-    <string name="qs_data_usage_location_qs_panel">QS Panel</string>
-    <string name="qs_data_usage_location_qs_statusbar">Quick Statusbar</string>
+    <string name="qs_data_usage_location_title">Быстрые настройки</string>
+    <string name="qs_data_usage_location_qs_panel">Панель быстрых настроек</string>
+    <string name="qs_data_usage_location_qs_statusbar">Быстрая панель уведомлений</string>
 
 </resources>
