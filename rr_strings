@@ -699,28 +699,28 @@
     <string name="custom_seekbar_default_value_is_set">Стандартное значение установлено</string>
 
     <!-- Refresh rate -->
-    <string name="refresh_rate_title">Screen refresh rate</string>
-    <string name="refresh_rate_summary_auto">Auto / Automatically raises the refresh rate from 60 to 90Hz for some content</string>
-    <string name="refresh_rate_summary_60">60Hz / Refresh rate locked at 60Hz for all content</string>
-    <string name="refresh_rate_summary_90">90Hz / Refresh rate locked at 90Hz for all content. Increased battery usage</string>
-    <string name="auto_refresh_rate">Auto</string>
+    <string name="refresh_rate_title">Частота обновления экрана</string>
+    <string name="refresh_rate_summary_auto">Авто / Автоматически менять с 60 до 90Hz для разного контента</string>
+    <string name="refresh_rate_summary_60">60Hz / Заблокировать на 60Hz для всего контента</string>
+    <string name="refresh_rate_summary_90">90Hz / Заблокировать на 90Hz для всего контента. Увеличеный расход батареи</string>
+    <string name="auto_refresh_rate">Автоматически</string>
 
     <!-- Battery stats reset -->
-    <string name="battery_stats_reset">Reset stats</string>
-    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+    <string name="battery_stats_reset">Сбросить статистику</string>
+    <string name="battery_stats_message">Сбросить историю использования батареи</string>
 
     <!-- Screenshot shutter sound -->
-    <string name="screenshot_shutter_sound_title">Screenshot shutter sound</string>
-    <string name="screenshot_sound_summary">Screenshot shutter sound enabled or disabled</string>
-    <string name="screenshot_delay_title">Screenshot delay</string>
+    <string name="screenshot_shutter_sound_title">Звук снятия скриншота</string>
+    <string name="screenshot_sound_summary">Звук снятия скриншота включен или выключен</string>
+    <string name="screenshot_delay_title">Задержка снимка экрана</string>
 
-    <string name="fp_swipe_to_dismiss_notifications_title">Swipe fingerprint left or right to dismiss notifications</string>
-    <string name="fp_swipe_to_dismiss_notifications_summary">To dismiss your notifications, swipe left or right on the fingerprint sensor on the back of your phone.</string>
+    <string name="fp_swipe_to_dismiss_notifications_title">Свайпнуть пальцем по сканеру отпечатка пальца для очистки уведомлений</string>
+    <string name="fp_swipe_to_dismiss_notifications_summary">Чтобы очитстить уведомления свайпнуть влево или вправо по сканеру отпечатка пальца.</string>
 
     <!-- Volume rocker gestures -->
-    <string name="volume_skiptrack_screen_title">Skip music tracks</string>
-    <string name="volume_skiptrack_title">Volume rocker skip tracks</string>
-    <string name="volume_skiptrack_summary">Long press the volume rocker to skip tracks when playing music, even remotely on tv or PC with e.g. Spotify (app must run on the phone and show the notification).</string>
+    <string name="volume_skiptrack_screen_title">Пропускать музыку</string>
+    <string name="volume_skiptrack_title">Кнопка громкости пропускает музыку</string>
+    <string name="volume_skiptrack_summary">Зажать кнопку громкости для пропуска музыки.</string>
 
     <string name="ambient_wake_gestures_title">Ambient wake gestures</string>
     <string name="ambient_wake_gestures_summary">Show Ambient Display instead of normal lockscreen on ambient wake gestures only if device supports it</string>
@@ -729,36 +729,36 @@
     <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
 
     <!-- QS rows and columns -->
-    <string name="qs_rows_columns_title">QS rows and columns</string>
-    <string name="qs_rows_columns_summary">Set number of of quick tiles on the quick panel.</string>
-    <string name="qs_rows_portrait_title">Tiles rows on portrait</string>
-    <string name="qs_rows_landscape_title">Tiles rows on landscape</string>
-    <string name="qs_columns_portrait_title">Tiles columns on portrait</string>
-    <string name="qs_columns_landscape_title">Tiles columns on landscape</string>
-    <string name="qs_titles_quickbar">Tiles on quickbar</string>
+    <string name="qs_rows_columns_title">Строки и столбцы в панели быстрых настроек</string>
+    <string name="qs_rows_columns_summary">Изменить количество строк и столбцов в панели быстрых настроек.</string>
+    <string name="qs_rows_portrait_title">Количество строк в портретном режиме</string>
+    <string name="qs_rows_landscape_title">Количество строк в ландшафтном режиме</string>
+    <string name="qs_columns_portrait_title">Количество столбцов в портретном режиме</string>
+    <string name="qs_columns_landscape_title">Количество столбцов в ландшафтном режиме</string>
+    <string name="qs_titles_quickbar">Количество тайтлов на быстрой панели быстрых настроек</string>
     <string name="qs_titles_quickbar_summary">To show more tiles on quickbar, reduce display size</string>
-    <string name="qs_tile_title_visibility_title">Show tiles title</string>
+    <string name="qs_tile_title_visibility_title">Показать названия тайтлов</string>
     <string name="qs_tile_title_visibility_summary">Show title under quick tiles of each icon</string>
 
     <string name="less_boring_heads_up_title">Less boring heads up</string>
     <string name="less_boring_heads_up_summary">Quickly disable heads up for all apps but keep them enabled for dialer and messaging apps</string>
-    <string name="heads_up_title">Allow Heads up</string>
+    <string name="heads_up_title">Разрешить всплывающие уведомления</string>
     <string name="heads_up_summary_enabled">Heads-up notifications are enabled</string>
     <string name="heads_up_summary_disabled">Heads-up notifications are disabled</string>
     <string name="heads_up_blacklist_add_package_title">Add app</string>
     <string name="heads_up_blacklist_add_package_summary">Disable heads-up notifications in these applications</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
-    <string name="heads_up_blacklist_choose_app">Select app</string>
-    <string name="heads_up_blacklist_dialog_delete_title">Delete</string>
+    <string name="heads_up_blacklist_title">Черный список</string>
+    <string name="heads_up_blacklist_choose_app">Выбрать приложение</string>
+    <string name="heads_up_blacklist_dialog_delete_title">Удалить</string>
     <string name="heads_up_blacklist_dialog_delete_message">Remove selected item?</string>
     <string name="heads_up_time_out_title">Time out</string>
-    <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
+    <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> секунд</string>
+    <string name="heads_up_time_out_2sec">2 секунды</string>
+    <string name="heads_up_time_out_4sec">4 секунды</string>
+    <string name="heads_up_time_out_5sec">5 секунд</string>
+    <string name="heads_up_time_out_6sec">6 секунд</string>
+    <string name="heads_up_time_out_8sec">8 секунд</string>
+    <string name="heads_up_time_out_10sec">10 секунд</string>
     <string name="heads_up_snooze_title">Snooze timer</string>
     <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
     <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
