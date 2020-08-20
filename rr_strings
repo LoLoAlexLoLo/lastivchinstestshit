@@ -478,7 +478,7 @@
     <string name="gesture_anywhere_summary">Нарисуйте ваши жесты для запуска выбранного приложения/действия</string>
     <string name="app_sidebar_summary">Использовать боковую панель для хранения ваших приложений и действий, которые вы хотели бы быстро запускать</string>
     <string name="app_circle_bar_summary">Использовать круглую боковую панель для хранения ваших быстрых приложений и действий</string>
-    <string name="pa_pie_control_summary">Свайп с края для включения/отключения PIE, состоящего из управления ярлыками и навигацией</string>
+    <string name="pa_pie_control_summary">Свайп с края для включения/выключения PIE, состоящего из управления ярлыками и навигацией</string>
     <string name="rr_navbar_summary">Включить или выключить софт-кнопки и настроить их</string>
     <string name="system_animations_summary">Настроить анимации для каждого окна в системе</string>
     <string name="rr_power_anim_summary">Включение или выключение анимаций в меню питания и также выбор из списка анимаций</string>
@@ -497,7 +497,7 @@
     <string name="rr_density_summary">Настройте плотность экрана, чтобы масштабировать экран до абсолютного предела</string>
     <string name="rr_fonts_summary">Выбрать предпочитаемый размер шрифта</string>
     <string name="rr_fonts_style_summary">Выберите предпочитаемый шрифт</string>
-    <string name="stock_recents_category">Стандартная панель недавних приложений</string>
+    <string name="stock_recents_category">Стандартное меню недавних приложений</string>
     <string name="edge_gestures_summary">Навигация с помощью жестов  от края экрана</string>
     <string name="lockscreen_title">Экран блокировки</string>
     <string name="rr_headsup_cat">Всплывающие уведомления</string>
@@ -523,7 +523,7 @@
     <string name="rr_custom_color_summary">Choose custom color</string>
     <string name="lockscreen_media_art_summary">Показывать обложку альбома музыки на экране блокировки</string>
     <string name="translucent_lockscreen_notifications_summary">Включите, чтобы уведомления отображались на экране блокировки полупрозрачными. Это может не работать с темными темами</string>
-    <string name="statusbar_tuner_summary">Параметры батареи и значки в строке состояния для отключения</string>
+    <string name="statusbar_tuner_summary">Параметры батареи и значки в строке состояния для выключения</string>
     <string name="rr_headset_cat">Наушники</string>
     <string name="rr_doze_footer_text">Яркость AOD или Ambient Display всегда будет меньше яркости экрана. Поэтому, если ваша яркость низкая, вы не можете заставить AOD или Ambient display подняться выше этого значения. Яркость может быть только ниже или равна текущей яркости. Чтобы убрать это ограничение включите переключатель яркости принудительного doze.</string>
     <string name="rr_vol_steps_cat">Шаги громкости</string>
@@ -735,18 +735,18 @@
     <string name="qs_rows_landscape_title">Количество строк в ландшафтном режиме</string>
     <string name="qs_columns_portrait_title">Количество столбцов в портретном режиме</string>
     <string name="qs_columns_landscape_title">Количество столбцов в ландшафтном режиме</string>
-    <string name="qs_titles_quickbar">Количество тайтлов на быстрой панели быстрых настроек</string>
+    <string name="qs_titles_quickbar">Количество плиток на быстрой панели быстрых настроек</string>
     <string name="qs_titles_quickbar_summary">To show more tiles on quickbar, reduce display size</string>
-    <string name="qs_tile_title_visibility_title">Показать названия тайтлов</string>
+    <string name="qs_tile_title_visibility_title">Показать названия плиток</string>
     <string name="qs_tile_title_visibility_summary">Show title under quick tiles of each icon</string>
 
     <string name="less_boring_heads_up_title">Less boring heads up</string>
-    <string name="less_boring_heads_up_summary">Quickly disable heads up for all apps but keep them enabled for dialer and messaging apps</string>
+    <string name="less_boring_heads_up_summary">Отключить всплывающие уведомления для всех приложений кроме телефона и сообщений</string>
     <string name="heads_up_title">Разрешить всплывающие уведомления</string>
-    <string name="heads_up_summary_enabled">Heads-up notifications are enabled</string>
-    <string name="heads_up_summary_disabled">Heads-up notifications are disabled</string>
-    <string name="heads_up_blacklist_add_package_title">Add app</string>
-    <string name="heads_up_blacklist_add_package_summary">Disable heads-up notifications in these applications</string>
+    <string name="heads_up_summary_enabled">Всплывающие уведомления включены</string>
+    <string name="heads_up_summary_disabled">Всплывающие уведомления выключены</string>
+    <string name="heads_up_blacklist_add_package_title">Добавить приложение</string>
+    <string name="heads_up_blacklist_add_package_summary">Отключить всплывающие уведомления для этих приложений</string>
     <string name="heads_up_blacklist_title">Черный список</string>
     <string name="heads_up_blacklist_choose_app">Выбрать приложение</string>
     <string name="heads_up_blacklist_dialog_delete_title">Удалить</string>
@@ -763,11 +763,11 @@
     <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
     <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
     <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
-    <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
+    <string name="heads_up_snooze_1min">1 минута</string>
+    <string name="heads_up_snooze_5min">5 минут</string>
+    <string name="heads_up_snooze_10min">10 минут</string>
+    <string name="heads_up_snooze_15min">15 минут</string>
+    <string name="heads_up_snooze_20min">20 минут</string>
 
     <string name="default_text">Def</string>
 
@@ -1006,41 +1006,41 @@
     <string name="toast_SlideRightLeft_animation">Slide right to left</string>
 
     <!-- Display cutout options -->
-    <string name="rr_cutout_main">Notch</string>
-    <string name="cutout_main">Display cutout</string>
-    <string name="cutout_main_summary">Customize notch settings</string>
-    <string name="display_cutout_style_title">Cutout style</string>
-    <string name="display_cutout_style_normal">Normal</string>
-    <string name="display_cutout_style_immerse">Immerse</string>
-    <string name="display_cutout_style_hide">Hide</string>
-    <string name="stock_statusbar_in_hide">Stock statusbar height</string>
-    <string name="stock_statusbar_in_hide_summary">Use default statusbar height in Hide</string>
-    <string name="cutout_disabled_summary">Display cutout disabled. Enable overlay from development settings then come back here</string>
+    <string name="rr_cutout_main">Вырез</string>
+    <string name="cutout_main">Настройки отображения выреза</string>
+    <string name="cutout_main_summary">Они действительно срезали  этим углы</string>
+    <string name="display_cutout_style_title">Стиль выреза</string>
+    <string name="display_cutout_style_normal">Нормальный</string>
+    <string name="display_cutout_style_immerse">Полноэкранный режим<</string>
+    <string name="display_cutout_style_hide">Скрыть</string>
+    <string name="stock_statusbar_in_hide">Стоковая высота строки состояния</string>
+    <string name="stock_statusbar_in_hide_summary">Использовать высоту строки состояния по умолчанию при скрытии</string>
+    <string name="cutout_disabled_summary">Отображение выреза выключено. Включите оверлей в настройках разработчика и возвращайтесь сюда</string>
     <!-- Notch: Full screen apps -->
-    <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
-    <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
+    <string name="display_cutout_force_fullscreen_title">Полноэкранные приложения</string>
+    <string name="display_cutout_force_fullscreen_summary">Заставить приложения игнорировать вырез</string>
 
     <!-- Slim recents -->
-    <string name="slim_recents_title">Slim recents</string>
-    <string name="alternative_recents_category">Alternative recents</string>
-    <string name="recents_max_apps_title">Max allowed apps</string>
-    <string name="recent_panel_scale_title">Size</string>
-    <string name="recent_panel_expanded_mode_title">Expanded mode</string>
-    <string name="recent_panel_expanded_mode_summary">Recent tasks expanded preview mode</string>
-    <string name="recent_panel_expanded_mode_auto">Auto (default)</string>
-    <string name="recent_panel_expanded_mode_always">Always</string>
-    <string name="recent_panel_expanded_mode_never">Never</string>
-    <string name="recent_panel_bg_color_title">Panel background color</string>
-    <string name="recent_card_bg_color_title">Card background color</string>
-    <string name="slim_recents_mem_display_long_click_clear_title">Memory bar longpress</string>
-    <string name="slim_recents_mem_display_long_click_clear_summary">Clear recents by long-pressing the memory bar</string>
-    <string name="slim_icon_pack_title">Icon Pack</string>
-    <string name="slim_icon_pack_summary">Apply a custom icon pack for apps in the panel</string>
-    <string name="no_iconpacks_summary">No icon packs installed</string>
-    <string name="dialog_pick_iconpack_title">Pick icon pack</string>
-    <string name="default_iconpack_title">Default icons</string>
-    <string name="slim_recents_corner_radius_title">Card corner radius</string>
-    <string name="recent_panel_expanded_mode_disabled">Disabled</string>
+    <string name="slim_recents_title">Меню недавних приложений Slim</string>
+    <string name="alternative_recents_category">Альтернативное меню недавних приложений</string>
+    <string name="recents_max_apps_title">Максимально допустимое количество приложений</string>
+    <string name="recent_panel_scale_title">Размер</string>
+    <string name="recent_panel_expanded_mode_title">Расширенный режим</string>
+    <string name="recent_panel_expanded_mode_summary">Расширенный режим просмотра недавних приложений</string>
+    <string name="recent_panel_expanded_mode_auto">Автоматически (по умолчанию)</string>
+    <string name="recent_panel_expanded_mode_always">Всегда</string>
+    <string name="recent_panel_expanded_mode_never">Никогда</string>
+    <string name="recent_panel_bg_color_title">Цвет фона</string>
+    <string name="recent_card_bg_color_title">Цвет фона карточки</string>
+    <string name="slim_recents_mem_display_long_click_clear_title">Длительное нажатие на панель использования ОЗУ</string>
+    <string name="slim_recents_mem_display_long_click_clear_summary">Очищать недавние приложения при длительном нажатии на панель использования ОЗУ</string>
+    <string name="slim_icon_pack_title">Набор иконок</string>
+    <string name="slim_icon_pack_summary">Применить пользовательский набор значков для приложений в панели</string>
+    <string name="no_iconpacks_summary">Ни одного набора иконок не установлено</string>
+    <string name="dialog_pick_iconpack_title">Выбрать набор иконок</string>
+    <string name="default_iconpack_title">Иконки по умолчанию</string>
+    <string name="slim_recents_corner_radius_title">Радиус закругления карточки</string>
+    <string name="recent_panel_expanded_mode_disabled">Выключено</string>
 
     <!-- ATTENTION: RTL languages need to replace left with right -->
     <string name="recent_panel_lefty_mode_title">Show on the left edge</string>
@@ -1154,38 +1154,38 @@
     <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
 
   <!-- Statusbar Clock options -->
-    <string name="status_bar_clock_title">Clock</string>
-    <string name="status_bar_show_clock_title">Show clock &amp; date</string>
+    <string name="status_bar_clock_title">Часы</string>
+    <string name="status_bar_show_clock_title">Показывать часы и дату</string>
     <string name="clock_title_enable">Alignment</string>
-    <string name="status_bar_clock_seconds_title">Clock seconds</string>
-    <string name="status_bar_clock_seconds_summary">Include seconds in statusbar clock display</string>
-    <string name="status_bar_am_pm_title">AM/PM</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
-    <string name="am_pm_clock_normal">Normal font size</string>
-    <string name="am_pm_clock_small">Small font size</string>
-    <string name="am_pm_clock_none">Don\'t show</string>
-    <string name="clock_date_display">Date</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_style">Date style</string>
-    <string name="clock_date_position">Date position</string>
-    <string name="clock_date_format">Date format</string>
-    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="clock_date_string_edittext_summary">Enter string</string>
-    <string name="clock_date_right">Right of time</string>
-    <string name="clock_date_left">Left of time</string>
-    <string name="clock_date_display_none">Don\'t show</string>
-    <string name="clock_date_display_small">Small font size</string>
-    <string name="clock_date_display_normal">Normal font size</string>
-    <string name="clock_date_style_normal">Normal</string>
-    <string name="clock_date_style_lowercase">Lowercase</string>
-    <string name="clock_date_style_uppercase">Uppercase</string>
-    <string name="clock_date_format_custom">Custom java format</string>
-    <string name="clock_position">Clock position</string>
-    <string name="clock_position_right">Right clock</string>
-    <string name="clock_position_center">Center clock</string>
-    <string name="clock_position_left">Left clock</string>
-    <string name="menu_cancel">Cancel</string>
-    <string name="menu_save">Save</string>
+    <string name="status_bar_clock_seconds_title">Показывать секунды</string>
+    <string name="status_bar_clock_seconds_summary">Показывать часы, минуты и секунды</string>
+    <string name="status_bar_am_pm_title">Стиль AM/PM</string>
+    <string name="status_bar_am_pm_info">Включен 24-часовой формат времени</string>
+    <string name="am_pm_clock_normal">Нормальный размер шрифта</string>
+    <string name="am_pm_clock_small">Маленький размер шрифта</string>
+    <string name="am_pm_clock_none">Не показывать</string>
+    <string name="clock_date_display">Дата</string>
+    <string name="clock_date_display_summary">Показывать настраиваемую дату перед часами</string>
+    <string name="clock_date_style">Стиль даты</string>
+    <string name="clock_date_position">Расположение даты</string>
+    <string name="clock_date_format">Формат даты</string>
+    <string name="clock_date_string_edittext_title">Введённое значение должно соответствовать формату даты, например ММ/dd/yy</string>
+    <string name="clock_date_string_edittext_summary">Ввести значение</string>
+    <string name="clock_date_right">Справа от часов</string>
+    <string name="clock_date_left">Слева от часов</string>
+    <string name="clock_date_display_none">Не показывать</string>
+    <string name="clock_date_display_small">Маленький размер шрифта</string>
+    <string name="clock_date_display_normal">Нормальный размер шрифта</string>
+    <string name="clock_date_style_normal">Нормальный</string>
+    <string name="clock_date_style_lowercase">Нижний регистр</string>
+    <string name="clock_date_style_uppercase">Верхний регистр</string>
+    <string name="clock_date_format_custom">Настраиваемый java-формат</string>
+    <string name="clock_position">Расположение часов</string>
+    <string name="clock_position_right">Справа</string>
+    <string name="clock_position_center">По центру</string>
+    <string name="clock_position_left">Слева</string>
+    <string name="menu_cancel">Отменить</string>
+    <string name="menu_save">Сохранить</string>
 
 	
     <!-- Custom lockscreen notifications count -->
@@ -1794,11 +1794,11 @@
 
 	
     <!-- Blink flashlight for incoming calls -->
-    <string name="flashlight_on_call_title">Blink Flashlight on call</string>
-    <string name="flashlight_on_call_disabled">Disabled</string>
-    <string name="flashlight_on_call_not_dnd">Only in ringer mode</string>
-    <string name="flashlight_on_call_dnd">Only in silent modes</string>
-    <string name="flashlight_on_call_always">Always</string>
+    <string name="flashlight_on_call_title">Мигать фонариком во время входящего звонка</string>
+    <string name="flashlight_on_call_disabled">Выключено</string>
+    <string name="flashlight_on_call_not_dnd">Только в режиме звонка</string>
+    <string name="flashlight_on_call_dnd">Только в режиме \"Не беспокоить\"</string>
+    <string name="flashlight_on_call_always">Всегда</string>
 
     <!-- Old mobiletype icon style -->
     <string name="old_mobiletype_title">Old style signal icon</string>
@@ -1809,36 +1809,36 @@
     <string name="doze_on_charge_summary">Keep screen awake with Always on Display feature while device is charging</string>
 
    <!-- QS tile styles -->
-    <string name="qs_tile_style_title">QS tile style</string>
-    <string name="qstile_default">Default</string>
-    <string name="qstile_circle_trim">Circle with trim</string>
-    <string name="qstile_squircle_trim">Squircle with trim</string>
-    <string name="qstile_teardrop">Teardrop</string>
-    <string name="qstile_hexagon">Hexagon</string>
-    <string name="qstile_star">Star</string>
-    <string name="qstile_square">Rounded square</string>
-    <string name="qstile_gear">Gear</string>
-    <string name="qstile_badge">Badge</string>
-    <string name="qstile_badgetwo">Badge two</string>
-    <string name="qstile_squircle">Squircle</string>
-    <string name="qstile_diamond">Diamond</string>
-    <string name="qstile_dual_tone_circle">Dual-toned circle</string>
-    <string name="qstile_wavey">Wavey</string>
-    <string name="qstile_pokesign">Pokesign</string>
-    <string name="qstile_ninja">Ninja</string>
-    <string name="qstile_dottedcircle">Dotted Circle</string>
-    <string name="qstile_attemptmountain">An attempt of a mountain</string>
+    <string name="qs_tile_style_title">Стиль плиток в быстрых настройках</string>
+    <string name="qstile_default">По умолчанию</string>
+    <string name="qstile_circle_trim">Круг с окантовкой</string>
+    <string name="qstile_squircle_trim">Эллипс с окантовкой</string>
+    <string name="qstile_teardrop">Капля</string>
+    <string name="qstile_hexagon">Шестиугольник</string>
+    <string name="qstile_star">Звезда</string>
+    <string name="qstile_square">Квадрат с закругленными углами</string>
+    <string name="qstile_gear">Шестеренка</string>
+    <string name="qstile_badge">Бэйдж</string>
+    <string name="qstile_badgetwo">Бэйдж два</string>
+    <string name="qstile_squircle">Округлый квадрат</string>
+    <string name="qstile_diamond">Бриллиант</string>
+    <string name="qstile_dual_tone_circle">Двух-тоновый круг</string>
+    <string name="qstile_wavey">Волны</string>
+    <string name="qstile_pokesign">Покебол</string>
+    <string name="qstile_ninja">Ниндзя</string>
+    <string name="qstile_dottedcircle">Точечный круг</string>
+    <string name="qstile_attemptmountain">Попытка горы</string>
     <string name="qstile_squaremedo">The Squaremedo</string>
-    <string name="qstile_inkdrop">Ink</string>
-    <string name="qstile_cookie">Cookie</string>
-    <string name="qstile_circleoutline">Circle Outline</string>
-    <string name="qstile_neonlike">Neonlike</string>
+    <string name="qstile_inkdrop">Чернила</string>
+    <string name="qstile_cookie">Печенье</string>
+    <string name="qstile_circleoutline">Контур круга</string>
+    <string name="qstile_neonlike">Неон</string>
     <string name="qstile_oos">OOS</string>
-    <string name="qstile_triangles">Triangles</string>
-    <string name="qstile_divided">Divided circle</string>
-    <string name="qstile_cosmos">Cosmos</string>
+    <string name="qstile_triangles">Треугольники</string>
+    <string name="qstile_divided">Разделенный круг</string>
+    <string name="qstile_cosmos">Космос</string>
 
-    <string name="brightness_title">Brightness</string>
+    <string name="brightness_title">Яркость</string>
     <string name="doze_brightness_force_title">Force brightness values</string>
     <string name="doze_brightness_force_summary">Use custom brightness values instead of screen brightness</string>
     <string name="ambient_pulse_brightness_title">Ambient display</string>
@@ -1846,7 +1846,7 @@
     <string name="auto_brightness_min_title">Minimal brightness level</string>
     <string name="auto_brightness_description_new">Your screen brightness will automatically adjust to your environment and activities.\n\nYou can adjust a minimal brightness level that will be used.</string>
 
-    <string name="lock_screen_weather_style_title">Pixel style</string>
+    <string name="lock_screen_weather_style_title">Стиль Pixel</string>
     <string name="lock_screen_weather_style_summary">Display weather next to date instead big widget. This mode is forced on some custom clocks</string>
 
     <!-- A2DP codec priority -->
@@ -1857,16 +1857,16 @@
     <string name="sbc_hd_priority_summary">Whether to use Dual Channel mode for SBC codec by default</string>
 
     <!-- QS tile tint -->
-    <string name="qs_tile_accent_tint_title">Tint tiles</string>
-    <string name="qs_tile_default">Default</string>
+    <string name="qs_tile_accent_tint_title">Цвет плитки</string>
+    <string name="qs_tile_default">По умолчанию</string>
     <string name="qs_tile_rgb">RGB</string>
-    <string name="qs_tile_accent">Accent</string>
-    <string name="qs_panel_bg_rgb_dur_title">Duration of animation</string>
-    <string name="qs_label_tint_title">Active Label tint</string>
-    <string name="qs_label_inactive_tint_title">Tint inactive labels</string>
-    <string name="qs_label_inactive_tint_summary">Tint the label of inactive tile titles as well</string>
-    <string name="qs_tile_accent_tint_inactive_title">Tint inactive tiles</string>
-    <string name="qs_tile_accent_tint_inactive_summary">Tint the background of inactive tile titles as well</string>
+    <string name="qs_tile_accent">Акцент</string>
+    <string name="qs_panel_bg_rgb_dur_title">Длительность анимации</string>
+    <string name="qs_label_tint_title">Окрашивать активные плитки</string>
+    <string name="qs_label_inactive_tint_title">Окрашивать неактивные плитки</string>
+    <string name="qs_label_inactive_tint_summary">Окрашивать названия неактивных плиток</string>
+    <string name="qs_tile_accent_tint_inactive_title">Окрашивать неактивные плитки</string>
+    <string name="qs_tile_accent_tint_inactive_summary">Окрашивать фон неактивных плиток</string>
 
     <!-- StatusBar notification count -->
     <string name="notif_count_title">Notification count</string>
@@ -1876,45 +1876,45 @@
     <string name="lockscreen_timeout_title">Lockscreen timeout</string>
 
     <!-- Pulse -->
-    <string name="pulse_help_policy_notice_summary">Pulse does not work with some audio sources when listening on device speaker</string>
-    <string name="pulse_settings">Pulse</string>
-    <string name="pulse_settings_summary">Navigation bar audio graphic equalizer</string>
-    <string name="show_pulse_title">Show Pulse</string>
-    <string name="show_pulse_summary">Audio graphic equalizer on the navigation bar</string>
-    <string name="pulse_render_mode_title">Render mode</string>
-    <string name="pulse_render_mode_fading_bars">Fading blocks</string>
-    <string name="pulse_render_mode_solid_lines">Solid lines</string>
-    <string name="pulse_color">Color</string>
-    <string name="pulse_color_mode">Color mode</string>
-    <string name="pulse_color_accent">Accent</string>
-    <string name="pulse_color_custom">Custom</string>
-    <string name="pulse_color_lava_lamp">Lava lamp</string>
-    <string name="pulse_color_auto">Album art</string>
-    <string name="pulse_color_chooser">Choose color</string>
-    <string name="smoothing_enabled_title">Turn on smoothing</string>
-    <string name="smoothing_enabled_summary">Each bar is animated more smoothly</string>
-    <string name="pulse_advanced_category">Advanced</string>
-    <string name="pulse_legacy_mode_advanced_category">Fading blocks mode settings</string>
-    <string name="pulse_custom_fudge_factor">Sanity level</string>
-    <string name="lavamp_speed_title">Lava lamp speed</string>
-    <string name="pulse_solid_units_count">Solid lines count</string>
-    <string name="pulse_solid_lines_count">Solid lines count</string>
-    <string name="pulse_solid_units_opacity">Solid lines opacity</string>
-    <string name="pulse_solid_dimen_category">Solid lines mode settings</string>
-    <string name="pulse_custom_dimen">Bar width</string>
-    <string name="pulse_custom_div">Bar spacing</string>
-    <string name="pulse_filled_block_size">Block size</string>
-    <string name="pulse_empty_block_size">Block spacing</string>
+    <string name="pulse_help_policy_notice_summary">Пульс не работает с некоторыми источниками звука во время прослушивания через динамик</string>
+    <string name="pulse_settings">Пульс</string>
+    <string name="pulse_settings_summary">Аудиовизуализация панели навигации</string>
+    <string name="show_pulse_title">Включить Pulse</string>
+    <string name="show_pulse_summary">Включить визуализацию аудио в панели навигации</string>
+    <string name="pulse_render_mode_title">Режим визуализацииe</string>
+    <string name="pulse_render_mode_fading_bars">Затухающие блоки</string>
+    <string name="pulse_render_mode_solid_lines">Сплошные линии</string>
+    <string name="pulse_color">Цвет Pulse</string>
+    <string name="pulse_color_mode">Цвет Pulse</string>
+    <string name="pulse_color_accent">Акцент</string>
+    <string name="pulse_color_custom">Свой</string>
+    <string name="pulse_color_lava_lamp">Лавовая лампа</string>
+    <string name="pulse_color_auto">Обложка альбома</string>
+    <string name="pulse_color_chooser">Выбрать цвет</string>
+    <string name="smoothing_enabled_title">Включить плавность</string>
+    <string name="smoothing_enabled_summary">Каждая полоса анимируется более плавно</string>
+    <string name="pulse_advanced_category">Дополнительно</string>
+    <string name="pulse_legacy_mode_advanced_category">Настройки режима затухающих блоков</string>
+    <string name="pulse_custom_fudge_factor">Уровень чувствительности</string>
+    <string name="lavamp_speed_title">Скорость лавовой лампы</string>
+    <string name="pulse_solid_units_count">Количество сплошных линий</string>
+    <string name="pulse_solid_lines_count">Количество сплошных линий</string>
+    <string name="pulse_solid_units_opacity">Прозрачность сплошных линий</string>
+    <string name="pulse_solid_dimen_category">Настройки режима сплошных линий</string>
+    <string name="pulse_custom_dimen">Ширина полосы</string>
+    <string name="pulse_custom_div">Растояние между полосами</string>
+    <string name="pulse_filled_block_size">Размер блока</string>
+    <string name="pulse_empty_block_size">Растояние между блоками</string>
 
     <!-- Clipboard toast info -->
-    <string name="clipboard_toast_info_title">Clipboard access alerts</string>
-    <string name="clipboard_toast_info_disabled">Don\'t show any alerts</string>
-    <string name="clipboard_toast_info_show_important">Show only important alerts</string>
-    <string name="clipboard_toast_info_show_all">Show all access alerts</string>
+    <string name="clipboard_toast_info_title">Оповещения о доступе к буферу обмена</string>
+    <string name="clipboard_toast_info_disabled">Не показывать оповещения</string>
+    <string name="clipboard_toast_info_show_important">Показывать только важные оповещения</string>
+    <string name="clipboard_toast_info_show_all">Показывать все оповещения</string>
 
     <!-- Accent Picker -->
-    <string name="theme_picker_default">Default</string>
-    <string name="accent_color">Accent picker</string>
+    <string name="theme_picker_default">По умолчанию</string>
+    <string name="accent_color">Выбрать акцент</string>
 
     <string name="statusbar_breathing_title">Breathing Notifications</string>
     <string name="sms_breath_title">Breathing SMS</string>
@@ -2525,7 +2525,7 @@
     <string name="aspect_ratio_apps_list_title">Устаревшие приложения которым разрешено использовать маштабтирование</string>
     <string name="aspect_ratio_category_title">Масштабирование устаревшего приложения</string>
     <string name="aspect_ratio_apps_info">Приложения нужно перезапустить после применения изменений</string>
-    <string name="disabled_entry">Отключено</string>
+    <string name="disabled_entry">Выключено</string>
     <string name="not_ready_summary">Разрешаем...</string>
     <string name="resolve_failed_summary">Не удалось выдать разрешение приложению</string>
 
