@@ -549,8 +549,8 @@
     <!--Clock-->
     <string name="status_bar_clock_enable">Включить часы</string>
     <string name="status_bar_clock_enable_summary">Выбрать как будут отображаться часы в панели состояния</string>
-    <string name="status_bar_clock_date_settings_title">Часы &amp; дата</string>
-    <string name="status_bar_clock_date_settings_summary">Выбрать как будут отображаться часы &amp; дата в панели состояния</string>
+    <string name="status_bar_clock_date_settings_title">Часы и дата</string>
+    <string name="status_bar_clock_date_settings_summary">Выбрать как будут отображаться часы и дата в панели состояния</string>
     <string name="status_bar_clock_auto_hide_title">Скрывать автоматически</string>
     <string name="status_bar_clock_auto_hide_summary">Скрывать и показывать часы через интервал времени для экономии места в панели состояния</string>
     <string name="status_bar_clock_auto_hide_hdur_title">Продолжительность скрытия</string>
@@ -628,7 +628,7 @@
     <string name="status_bar_weather_font_notoserif_bold_italic">NotoSerif Жирный Курсив</string>
     <string name="status_bar_custom_header_height_title">Смещение высоты изображения</string>
 
-    <string name="navbar_tuner_title">Кнопки &amp; навигации</string>
+    <string name="navbar_tuner_title">Кнопки навигации</string>
     <string name="navbar_tuner_summary">Изменить макет панели навигации и кнопки</string>
 
     <!-- QS Footer Text -->
@@ -857,35 +857,35 @@
     <string name="power_menu_lockdown_title">Lockdown</string>
     <!-- Global Actions -->
     <string name="global_actions_summary">Select what to show when you press the power button</string>
-    <string name="global_actions_power">Power</string>
-    <string name="global_actions_restart">Restart</string>
-    <string name="global_actions_airplane">Airplane</string>
-    <string name="global_actions_settings">Settings</string>
-    <string name="global_actions_lockdown">Lock Down</string>
-    <string name="global_actions_soundpanel">Sound Panel</string>
-    <string name="global_actions_users">Users</string>
-    <string name="global_actions_screenshot">Screenshot</string>
-    <string name="global_actions_screenrecord">Screenrecord</string>
-    <string name="global_actions_flashlight">Flashlight</string>
-    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
-    <string name="global_actions_advanced_reboot_summary">When restarting also show options for recovery and bootloader</string>
-    <string name="summary_global_actions_power">Show power button</string>
-    <string name="summary_global_actions_restart">Show restart button</string>
-    <string name="summary_global_actions_airplane">Show airplane button</string>
-    <string name="summary_global_actions_settings">Show settings button</string>
-    <string name="summary_global_actions_lockdown">Show lock down button</string>
-    <string name="summary_global_actions_screenshot">Show screenshot button</string>
+    <string name="global_actions_power">Выключить</string>
+    <string name="global_actions_restart">Перезагрузка</string>
+    <string name="global_actions_airplane">Режим полёта</string>
+    <string name="global_actions_settings">Настройки</string>
+    <string name="global_actions_lockdown">Блокировка экрана</string>
+    <string name="global_actions_soundpanel">Панель громкости</string>
+    <string name="global_actions_users">Пользователи</string>
+    <string name="global_actions_screenshot">Скриншот</string>
+    <string name="global_actions_screenrecord">Запись экрана</string>
+    <string name="global_actions_flashlight">Фонарик</string>
+    <string name="global_actions_advanced_reboot_title">Включить расширеную перезагрузку</string>
+    <string name="global_actions_advanced_reboot_summary">Возможность перезагрузиться в режим восстановления, загрузчик, а также перезагрузить пользовательский интерфейс</string>
+    <string name="summary_global_actions_power">Показывать кнопку выключения</string>
+    <string name="summary_global_actions_restart">Показывать кнопку перезагрузки</string>
+    <string name="summary_global_actions_airplane">Показывать кнопку режима полёта</string>
+    <string name="summary_global_actions_settings">Показывать кнопку настроек</string>
+    <string name="summary_global_actions_lockdown">Показывать кнопку блокировки экрана</string>
+    <string name="summary_global_actions_screenshot">Показывать кнопку скриншота</string>
     <string name="summary_global_actions_onthego">Show On-The-Go button</string>
     <string name="summary_global_actions_screenrecord">Show screenrecord button</string>
-    <string name="powermenu_screenshot">Screenshot</string>
-    <string name="powermenu_power">Power</string>
-    <string name="powermenu_power_sum">Show power button</string>
-    <string name="powermenu_restart">Restart</string>
-    <string name="powermenu_restart_recovery">Advanced Restart</string>
-    <string name="powermenu_airplane">Airplane</string>
-    <string name="powermenu_airplane_sum">Show airplane button</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_settings_sum">Show settings button</string>
+    <string name="powermenu_screenshot">Скриншот</string>
+    <string name="powermenu_power">Выключить</string>
+    <string name="powermenu_power_sum">Показывать кнопку выключения</string>
+    <string name="powermenu_restart">Перезагрузка</string>
+    <string name="powermenu_restart_recovery">Расширенная перезагрузка</string>
+    <string name="powermenu_airplane">Режим полёта</string>
+    <string name="powermenu_airplane_sum">Показывать кнопку режима полёта</string>
+    <string name="powermenu_settings">Настройки</string>
+    <string name="powermenu_settings_sum">Показывать кнопку настройки</string>
     <string name="powermenu_lockdown">Lock Down</string>
     <string name="powermenu_soundpanel">Sound Panel</string>
     <string name="powermenu_soundpanel_sum">Show sound panel button</string>
@@ -901,67 +901,67 @@
     <string name="powermenu_emergency">Emergency</string>
 
     <!-- Statusbar RR logo -->
-    <string name="status_bar_logo_category_title">Logo</string>
-    <string name="status_bar_logo_title">Logo</string>
-    <string name="status_bar_logo_color_title">Color</string>
-    <string name="status_bar_logo_position_title">Position</string>
-    <string name="status_bar_logo_position_summary">Choose which side to display the logo on, left or right</string>
-    <string name="status_bar_logo_position_right">Right</string>
-    <string name="status_bar_logo_position_left">Left</string>
-    <string name="status_bar_logo_style_title">Style</string>
+    <string name="status_bar_logo_category_title">Лого</string>
+    <string name="status_bar_logo_title">Лого</string>
+    <string name="status_bar_logo_color_title">Цвет</string>
+    <string name="status_bar_logo_position_title">Позиция</string>
+    <string name="status_bar_logo_position_summary">Выбрать на каком крае экрана будет отображаться лого</string>
+    <string name="status_bar_logo_position_right">Правый</string>
+    <string name="status_bar_logo_position_left">Левый</string>
+    <string name="status_bar_logo_style_title">Стиль</string>
     <string name="status_bar_logo_style_rr">RR</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
-    <string name="status_bar_logo_style_emoticon">Emoticon</string>
-    <string name="status_bar_logo_style_emoticon_cool">Emoticon cool</string>
-    <string name="status_bar_logo_style_emoticon_dead">Emoticon dead</string>
-    <string name="status_bar_logo_style_emoticon_devil">Emoticon devil</string>
-    <string name="status_bar_logo_style_emoticon_happy">Emoticon happy</string>
-    <string name="status_bar_logo_style_emoticon_neutral">Emoticon neutral</string>
-    <string name="status_bar_logo_style_emoticon_poop">Emoticon poop</string>
-    <string name="status_bar_logo_style_emoticon_sad">Emoticon sad</string>
-    <string name="status_bar_logo_style_emoticon_tongue">Emoticon tongue</string>
+    <string name="status_bar_logo_style_emoticon">Смайлик</string>
+    <string name="status_bar_logo_style_emoticon_cool">Смайлик крутой</string>
+    <string name="status_bar_logo_style_emoticon_dead">Смайлик мёртвый</string>
+    <string name="status_bar_logo_style_emoticon_devil">Смайлик демон</string>
+    <string name="status_bar_logo_style_emoticon_happy">Смайлик счастливый</string>
+    <string name="status_bar_logo_style_emoticon_neutral">Смайлик нейтральный</string>
+    <string name="status_bar_logo_style_emoticon_poop">Смайлик какаха</string>
+    <string name="status_bar_logo_style_emoticon_sad">Смайлик грустный</string>
+    <string name="status_bar_logo_style_emoticon_tongue">Смайлик язык</string>
     <string name="status_bar_logo_style_blackberry">Blackberry</string>
-    <string name="status_bar_logo_style_cake">Cake</string>
+    <string name="status_bar_logo_style_cake">Торт</string>
     <string name="status_bar_logo_style_blogger">Blogger</string>
-    <string name="status_bar_logo_style_biohazard">Biohazard</string>
+    <string name="status_bar_logo_style_biohazard">Биологическая угроза</string>
     <string name="status_bar_logo_style_linux">Linux</string>
-    <string name="status_bar_logo_style_yin_yang">Yin-Yang</string>
+    <string name="status_bar_logo_style_yin_yang">Инь Янь</string>
     <string name="status_bar_logo_style_windows">Windows</string>
-    <string name="status_bar_logo_style_robot">Robot</string>
-    <string name="status_bar_logo_style_ninja">Ninja</string>
-    <string name="status_bar_logo_style_heart">Heart</string>
-    <string name="status_bar_logo_style_flower">Flower</string>
-    <string name="status_bar_logo_style_ghost">Ghost</string>
+    <string name="status_bar_logo_style_robot">Робот</string>
+    <string name="status_bar_logo_style_ninja">Ниндзя</string>
+    <string name="status_bar_logo_style_heart">Сердце</string>
+    <string name="status_bar_logo_style_flower">Цветок</string>
+    <string name="status_bar_logo_style_ghost">Призрак</string>
     <string name="status_bar_logo_style_google">Google</string>
-    <string name="status_bar_logo_style_human_male">Man</string>
-    <string name="status_bar_logo_style_human_female">Woman</string>
-    <string name="status_bar_logo_style_human_male_female">Man &amp; woman</string>
-    <string name="status_bar_logo_style_gender_male">Male</string>
-    <string name="status_bar_logo_style_gender_female">Female</string>
-    <string name="status_bar_logo_style_gender_male_female">Male &amp; female</string>
-    <string name="status_bar_logo_style_guitar_electric">Electric guitar</string>
-    <string name="status_bar_logo_color_accent_title">Use accent Color</string>
-    <string name="status_bar_logo_color_accent_summary">Tint logo to accent color. This might cause visibility problems on dark or light statusbars.</string>
-    <string name="status_bar_logo_position_right_quick">Right with QS Panel</string>
-    <string name="status_bar_logo_position_left_quick">Left with QS Panel</string>
+    <string name="status_bar_logo_style_human_male">Мужчина</string>
+    <string name="status_bar_logo_style_human_female">Женщина</string>
+    <string name="status_bar_logo_style_human_male_female">Мужчина и женщина</string>
+    <string name="status_bar_logo_style_gender_male">Мужское</string>
+    <string name="status_bar_logo_style_gender_female">Женское</string>
+    <string name="status_bar_logo_style_gender_male_female">Мужское и женское</string>
+    <string name="status_bar_logo_style_guitar_electric">Электрическая гитара</string>
+    <string name="status_bar_logo_color_accent_title">Использовать цвет акцента</string>
+    <string name="status_bar_logo_color_accent_summary">Покрасить лого в цвет акцента. Это может вызвать проблемы с видимостью на тёмной или яркой панели состояния.</string>
+    <string name="status_bar_logo_position_right_quick">Справа на панели быстрых настроек</string>
+    <string name="status_bar_logo_position_left_quick">Слева на панели быстрых настроек</string>
 
     <!-- Switch styles -->
-    <string name="switch_style_title">Preference switch style</string>
-    <string name="switch_default">Default</string>
+    <string name="switch_style_title">Предпочитаемый стиль переключателя</string>
+    <string name="switch_default">По умолчанию</string>
     <string name="switch_md2">Material Design 2</string>
     <string name="switch_oneplus">OnePlus</string>
-    <string name="switch_narrow">Narrow</string>
+    <string name="switch_narrow">Узкий</string>
     <string name="switch_contained">Contained</string>
-    <string name="switch_retro">Retro</string>
+    <string name="switch_retro">Ретро</string>
     <string name="switch_stockish">Stockish</string>
     <string name="switch_telegram">Telegram</string>
-    <string name="switch_ui_warning">Some switches may not be compatible or may look bad with gradient colors, hence they are forced to obey regular accent color</string>
-    <string name="dark_ui_warning">Please enable dark theme to set different themes</string>
+    <string name="switch_ui_warning">Некоторые стили несовместимы с градиентом или смотрятся ужасно, поэтому они будут использовать цвет акцента</string>
+    <string name="dark_ui_warning">Пожалуйста, включите темную тему, чтобы поставить другие виды тем</string>
     <!-- On-The-Go -->
     <string name="global_actions_onthego_title">On-The-Go</string>
-    <string name="global_actions_onthego_summary">Add On-The-Go toggle to Power Menu</string>
+    <string name="global_actions_onthego_summary">Добавить переключатель On-The-Go в меню питания</string>
 
     <!-- Power menu and dialogs opacity -->
     <string name="power_menu_category">Power/reboot dialogs</string>
@@ -969,7 +969,7 @@
     <string name="power_menu_dialog_dim">Background dim</string>
 
     <!-- Hide On Lockscreen -->
-    <string name="hide_lockscreen_status_bar_title">Hide status bar</string>
+    <string name="hide_lockscreen_status_bar_title">Скрыть панель состояния</string>
     <string name="hide_lockscreen_status_bar_summary">Hide the entire statusbar on lock screen</string>
 
     <!-- Media gestures -->
@@ -977,17 +977,17 @@
     <string name="prevent_ringing_option_mute_no_media_summary">On (mute, no media)</string>
 
     <!-- Toast icon switch -->
-    <string name="toast_icon_title">Toast icon</string>
-    <string name="toast_icon_summary">Display the app icon corresponding with the toast</string>
-    <string name="toast_text_color">Toast text color</string>
-    <string name="toast_icon_color">Toast icon color</string>
+    <string name="toast_icon_title">Значок Toast-уведомления</string>
+    <string name="toast_icon_summary">Включить отображение значка приложения в Toast-уведомлении</string>
+    <string name="toast_text_color">Цвет текста Toast-уведомления</string>
+    <string name="toast_icon_color">Цвет значка Toast-уведомления</string>
 
     <!-- Signature spoof -->
-    <string name="allow_signature_fake_title">Toggle signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow fake signatures for packages</string>
+    <string name="allow_signature_fake_title">Включить подмену подписи</string>
+    <string name="allow_signature_fake_summary">Разрешить приложениям выдавать себя за другие</string>
 
     <!-- Toast Animation -->
-    <string name="toast_animation_title">Toast animation</string>
+    <string name="toast_animation_title">Анимация Toast-уведомления</string>
     <string name="toast_none_animation">None</string>
     <string name="toast_default_animation">Default</string>
     <string name="toast_fade_animation">Fade</string>
