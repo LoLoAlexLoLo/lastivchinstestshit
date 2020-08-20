@@ -2188,47 +2188,47 @@
     <string name="force_expanded_notifications_summary">Always keep notifications expanded. Warning! This feature has known to cause some performance regression in notification panel. Use at your own risk</string>
     <!-- Themes -->
     <string name="rr_theme_corner_title">Overlay corner</string>
-    <string name="rr_theme_corner_summary">Select theme for SystemUI</string>
-    <string name="qs_header_style_title">Header styles</string>
-    <string name="qs_header_style_summary">Various header styles</string>
-    <string name="qs_header_black">Black</string>
-    <string name="qs_header_grey">Grey</string>
-    <string name="qs_header_lightgrey">Light Grey</string>
-    <string name="qs_header_accent">Accent Based</string>
-    <string name="qs_header_transparent">Transparent</string>
-    <string name="theme_type_title">System theme</string>
-    <string name="theme_type_summary">Select theme</string>
-    <string name="theme_type_light">Stock</string>
-    <string name="theme_type_pitch_black">Google Dark</string>
-    <string name="theme_type_solarized_dark">Solarized dark</string>
-    <string name="theme_type_baked_green">Baked Green</string>
+    <string name="rr_theme_corner_summary">Выбрать тему для графического интерфейса</string>
+    <string name="qs_header_style_title">Стили заголовков</string>
+    <string name="qs_header_style_summary">Разные стили заголовков</string>
+    <string name="qs_header_black">Чёрный</string>
+    <string name="qs_header_grey">Серый</string>
+    <string name="qs_header_lightgrey">Светло-серый</string>
+    <string name="qs_header_accent">Основаный на акценте</string>
+    <string name="qs_header_transparent">Прозрачный</string>
+    <string name="theme_type_title">Системная тема</string>
+    <string name="theme_type_summary">Выбрать тему</string>
+    <string name="theme_type_light">Стандартная</string>
+    <string name="theme_type_pitch_black">Тёмная Google</string>
+    <string name="theme_type_solarized_dark">Соляризованный темный</string>
+    <string name="theme_type_baked_green">Запеченный зеленый</string>
     <string name="theme_type_choco_x">Choco X</string>
     <string name="theme_type_pitchblack">Pitch black</string>
-    <string name="theme_type_charcoal_black">Charcoal Black</string>
-    <string name="theme_type_dark_grey">Dark Grey</string>
-    <string name="theme_type_material_ocean">Material Ocean</string>
+    <string name="theme_type_charcoal_black">Угольно-чёрный</string>
+    <string name="theme_type_dark_grey">Тёмно-серый</string>
+    <string name="theme_type_material_ocean">Материальный океан</string>
     <string name="gardient_enabled_summary">It looks like you have disabled Qs background gradient from header settings. Go to header settings and disable this feature and come back here.</string>
-    <string name="theme_type_rr_clear">Resurrection Clear</string>
+    <string name="theme_type_rr_clear">Чистый Resurrection</string>
 
     <!-- GVM -->
-    <string name="theme_customization_statusbar_height_title">Statusbar Height</string>
-    <string name="theme_customization_ui_radius_title">UI Radius</string>
+    <string name="theme_customization_statusbar_height_title">Высота панели состояния</string>
+    <string name="theme_customization_ui_radius_title">Радиус графического интерфейся</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
-    <string name="theme_customization_category">Theming</string>
+    <string name="theme_customization_category">Темы</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize accent color. -->
-    <string name="theme_customization_accent_color_title">Accent color</string>
+    <string name="theme_customization_accent_color_title">Цвет акцента</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
     <string name="theme_customization_font_title">Headline / Body font</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
+    <string name="theme_customization_icon_shape_title">Форма значков</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the statusbar icon -->
-    <string name="theme_customization_sysui_icon_title">Statusbar Icon</string>
+    <string name="theme_customization_sysui_icon_title">Значки в панели состояния</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Label for the option that turns off customizations for a given category.-->
     <string name="theme_customization_device_default">Device default</string>
     <string name="theme_customization_rr_tools_icon">RR tools icon tint</string>
     <string name="theme_customization_rr_tools_bg_icon">RR tools bg tint</string>
     <string name="theme_customization_rr_bg_icon">RR tools bg tint</string>
-    <string name="rr_tools_category">Resurrection tools</string>
+    <string name="rr_tools_category">Интсрументы Resurrection</string>
 
     <!-- Aggressive battery -->
     <string name="aggressive_battery_title">Aggressive Battery</string>
@@ -2245,12 +2245,12 @@
     <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery.</string>
     <string name="sensors_title">Sensors</string>
     <!-- QS SystemInfo -->
-    <string name="qs_system_info_title">System Info</string>
-    <string name="qs_system_info_off">Off</string>
-    <string name="qs_system_info_cpu_temp">CPU temperature</string>
-    <string name="qs_system_info_battery_temp">Battery temperature</string>
-    <string name="qs_system_info_gpu_clock">GPU frequency</string>
-    <string name="qs_system_info_gpu_busy">GPU utilization</string>
+    <string name="qs_system_info_title">Системная информация</string>
+    <string name="qs_system_info_off">Выключено</string>
+    <string name="qs_system_info_cpu_temp">Температура процессора</string>
+    <string name="qs_system_info_battery_temp">Температура батареи</string>
+    <string name="qs_system_info_gpu_clock">Частота процессора</string>
+    <string name="qs_system_info_gpu_busy">Загруженность процессора</string>
 
 
     <!-- Doze settings editor -->
@@ -2263,9 +2263,9 @@
     <string name="delete_profile">Delete profile</string>
     <string name="profile_name">Name</string>
     <string name="string_seconds">seconds</string>
-    <string name="string_default">Default</string>
-    <string name="action_filter">Filter</string>
-    <string name="doze_settings_applied">Settings applied</string>
+    <string name="string_default">По умолчанию</string>
+    <string name="action_filter">Фильтр</string>
+    <string name="doze_settings_applied">Настройки применены</string>
     <string name="DESC_INACTIVE_TIMEOUT">This is the time, after becoming inactive, at which we start looking at the motion sensor to determine if the device is being left alone. We don\'t do this immediately after going inactive just because we don\'t want to be continually running the significant motion sensor whenever the screen is off</string>
     <string name="DESC_SENSING_TIMEOUT">If we don\'t receive a callback from AnyMotion in this amount of time + locating_to, we will change from STATE_SENSING to STATE_INACTIVE, and any AnyMotion callbacks while not in STATE_SENSING will be ignored</string>
     <string name="DESC_LOCATING_TIMEOUT">This is how long we will wait to try to get a good location fix before going in to idle mode</string>
@@ -2565,14 +2565,14 @@
     <string name="vowifi_icon_summary">Отображать иконку VoWiFi когда доступна. По умолчанию включена</string>
 
     <!-- QS Settings button-->
-    <string name="qs_footer_settings_title">Иконка настроек</string>
+    <string name="qs_footer_settings_title">Иконка настроек в нижней части панели быстрых настроек</string>
     <string name="qs_settings_disable">Выключить</string>
     <string name="qs_settings_expanded_panel">Показывать в расширеных быстрых настройках</string>
     <string name="qs_settings_always">Показывать всегда</string>
-    <string name="qs_footer_user_title">Иконка смены пользователя</string>
-    <string name="qs_footer_user_summary">Показывать иконку смены пользователя снизу быстрых настроек</string>
-    <string name="qs_footer_edit_title">Иконка изменения</string>
-    <string name="qs_footer_edit_summary">Показывать иконку изменения снизу быстрых настроек</string>
+    <string name="qs_footer_user_title">Иконка смены пользователя в нижней части быстрых настроек</string>
+    <string name="qs_footer_user_summary">Показывать иконку смены пользователя в нижней части быстрых настроек</string>
+    <string name="qs_footer_edit_title">Иконка изменения плиток в нижней части быстрых настроек</string>
+    <string name="qs_footer_edit_summary">Показывать иконку изменения плиток в нмжней части быстрых настроек</string>
 
 
     <!-- QS data usage location -->
