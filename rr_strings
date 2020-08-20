@@ -2428,16 +2428,16 @@
     <string name="show_media_heads_up_summary">Show heads up notification when a new track is played</string>
 
     <!-- Long swipe gestures -->
-    <string name="back_swipe_type_title">Long swipe type</string>
-    <string name="back_swipe_type_long">Swipe and hold</string>
-    <string name="back_swipe_type_extended">Swipe edge to edge</string>
-    <string name="long_back_swipe_timeout_title">Long swipe timeout</string>
-    <string name="left_swipe_actions_title">Long left swipe action</string>
-    <string name="left_swipe_app_action_title">Select long left swipe app</string>
-    <string name="right_swipe_actions_title">Long right swipe action</string>
-    <string name="right_swipe_app_action_title">Select long right swipe app</string>
-    <string name="back_swipe_app_select_summary">Select an app to launch with the back gesture</string>
-    <string name="gesture_nav_tweaks_footer_info">To choose a specific app activity for the action, long press on any app in the app picker</string>
+    <string name="back_swipe_type_title">Тип длинного свайпа</string>
+    <string name="back_swipe_type_long">Свайпнуть и зажать</string>
+    <string name="back_swipe_type_extended">Свайп от края до края</string>
+    <string name="long_back_swipe_timeout_title">Длинный свайп за время</string>
+    <string name="left_swipe_actions_title">Действие длинного свайпа влево</string>
+    <string name="left_swipe_app_action_title">Выбрать приложение</string>
+    <string name="right_swipe_actions_title">Действие длинного свайпа вправо</string>
+    <string name="right_swipe_app_action_title">Выбрать приложение</string>
+    <string name="back_swipe_app_select_summary">Выбрать приложение для жеста назад</string>
+    <string name="gesture_nav_tweaks_footer_info">Зажать на приложении для выбора одного из его активити во время выбора приложения</string>
 
     <!-- Swap navigation keys -->
     <string name="swap_navigation_keys_title">Поменять кнопки</string>
