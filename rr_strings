@@ -395,6 +395,10 @@
     <string name="rr_reset_grad_summary">Нажмите здесь чтобы совместить цвет акцента и градиента если не хотите использовать градиент</string>
     <string name="rr_themes_tutorial">These will override all other enabled dark /light themes. Some options here are similar to original theme chooser, but the layout is easier to use here for new users. UI Radius will not work with some icon shapes. If you encounter UI radius issues, please change icon shape</string>
     <string name="rr_category_title">Персонализация</string>
+    <string name="rr_qs_tile_title">Плитки</string>
+    <string name="rr_category_footer">Нижняя часть панели состояния</string>
+    <string name="rr_category_usage">Предметы</string>
+    <string name="rr_extra_settings">Дополнительные настройки</string>
     <string name="rr_title">Настройки Resurrection Remix</string>
     <string name="rr_title_summary">Get Resurrected</string>
     <string name="rr_config_main_title">RR-OS</string>
