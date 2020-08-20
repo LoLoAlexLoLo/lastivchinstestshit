@@ -596,107 +596,107 @@
     <string name="header_weather_title">Погода в заголовке панели уведомлений</string>
     <string name="header_weather_summary">Включить отображение погоды в заголовке панели уведомлений</string>
     <string name="rr_header_summary">Настроить заголовок</string>
-    <string name="weather_icon_pack_title">Condition icon pack</string>
-    <string name="weather_icon_pack_color_warn">Note: Some weather icons cannot be colored</string>
-    <string name="weather_icon_pack_note">Note\u003a you can install new icon packs from play store by searching for \"Chronus icons\"</string>
-    <string name="status_bar_weather_size_title">Font size</string>
-    <string name="status_bar_weather_font_style_title">Font</string>
-    <string name="status_bar_weather_font_normal">Normal</string>
-    <string name="status_bar_weather_font_italic">Italic</string>
-    <string name="status_bar_weather_font_bold">Bold</string>
-    <string name="status_bar_weather_font_bold_italic">Bold Italic</string>
-    <string name="status_bar_weather_font_light">Light</string>
-    <string name="status_bar_weather_font_light_italic">Light Italic</string>
-    <string name="status_bar_weather_font_thin">Thin</string>
-    <string name="status_bar_weather_font_thin_italic">Thin Italic</string>
-    <string name="status_bar_weather_font_condensed">Condensed</string>
-    <string name="status_bar_weather_font_condensed_italic">Condensed Italic</string>
-    <string name="status_bar_weather_font_condensed_light">Condensed Light</string>
-    <string name="status_bar_weather_font_condensed_light_italic">Condensed Light Italic</string> 
-    <string name="status_bar_weather_font_condensed_bold">Condensed Bold</string>
-    <string name="status_bar_weather_font_condensed_bold_italic">Condensed Bold Italic</string>
-    <string name="status_bar_weather_font_medium">Medium</string>
-    <string name="status_bar_weather_font_medium_italic">Medium Italic</string>
-    <string name="status_bar_weather_font_black">Black</string>
-    <string name="status_bar_weather_font_black_italic">Black Italic</string> 
-    <string name="status_bar_weather_font_dancingscript">DancingScript</string>
-    <string name="status_bar_weather_font_dancingscript_bold">DancingScript Bold</string>
-    <string name="status_bar_weather_font_comingsoon">ComingSoon</string>
-    <string name="status_bar_weather_font_notoserif">NotoSerif Normal</string>
-    <string name="status_bar_weather_font_notoserif_italic">NotoSerif Italic</string>
-    <string name="status_bar_weather_font_notoserif_bold">NotoSerif Bold</string>
-    <string name="status_bar_weather_font_notoserif_bold_italic">NotoSerif Bold Italic</string>
-    <string name="status_bar_custom_header_height_title">Image height offset</string>
+    <string name="weather_icon_pack_title">Набор значков</string>
+    <string name="weather_icon_pack_color_warn">Примечание: Некоторые значки не могут быть цветными</string>
+    <string name="weather_icon_pack_note">Примечание\u003a вы можете установить новые пакеты значков из Магазина приложений при помощи поиска \"Chronus icons\"</string>
+    <string name="status_bar_weather_size_title">Размер шрифта</string>
+    <string name="status_bar_weather_font_style_title">Шрифт</string>
+    <string name="status_bar_weather_font_normal">Нормальный</string>
+    <string name="status_bar_weather_font_italic">Курсив</string>
+    <string name="status_bar_weather_font_bold">Жирный</string>
+    <string name="status_bar_weather_font_bold_italic">Жирный Курсив</string>
+    <string name="status_bar_weather_font_light">Лёгкий</string>
+    <string name="status_bar_weather_font_light_italic">Лёгкий Курсив</string>
+    <string name="status_bar_weather_font_thin">Тонкий</string>
+    <string name="status_bar_weather_font_thin_italic">Тонкий Курсив</string>
+    <string name="status_bar_weather_font_condensed">Уплотнённый</string>
+    <string name="status_bar_weather_font_condensed_italic">Уплотнённый Курсив</string>
+    <string name="status_bar_weather_font_condensed_light">Уплотнённый Лёгкий</string>
+    <string name="status_bar_weather_font_condensed_light_italic">Уплотнённый Лёгкий Курсив</string> 
+    <string name="status_bar_weather_font_condensed_bold">Уплотнённый Жирный</string>
+    <string name="status_bar_weather_font_condensed_bold_italic">Уплотнённый Жирный Курсив</string>
+    <string name="status_bar_weather_font_medium">Средний</string>
+    <string name="status_bar_weather_font_medium_italic">Средний Курсив</string>
+    <string name="status_bar_weather_font_black">Чёрный</string>
+    <string name="status_bar_weather_font_black_italic">Чёрный Курсив</string> 
+    <string name="status_bar_weather_font_dancingscript">Рукописный</string>
+    <string name="status_bar_weather_font_dancingscript_bold">Рукописный Жирный</string>
+    <string name="status_bar_weather_font_comingsoon">Ожидается</string>
+    <string name="status_bar_weather_font_notoserif">NotoSerif Обычный</string>
+    <string name="status_bar_weather_font_notoserif_italic">NotoSerif Курсив</string>
+    <string name="status_bar_weather_font_notoserif_bold">NotoSerif Жирный</string>
+    <string name="status_bar_weather_font_notoserif_bold_italic">NotoSerif Жирный Курсив</string>
+    <string name="status_bar_custom_header_height_title">Смещение высоты изображения</string>
 
-    <string name="navbar_tuner_title">Buttons &amp; navigation</string>
-    <string name="navbar_tuner_summary">Edit the navigation bar layout and buttons</string>
+    <string name="navbar_tuner_title">Кнопки &amp; навигации</string>
+    <string name="navbar_tuner_summary">Изменить макет панели навигации и кнопки</string>
 
     <!-- QS Footer Text -->
-    <string name="qs_footer_text_title">QS footer text</string>
-    <string name="qs_footer_text_summary">Display text at bottom of QS panel</string>
-    <string name="qs_footer_text_string_title">Customize footer text</string>
-    <string name="qs_footer_text_string_summary">Set to empty for default Resurrection Remix</string>
-    <string name="status_bar_footer_cat">Footer</string> 
+    <string name="qs_footer_text_title">Текст в нижней части панели настроек</string>
+    <string name="qs_footer_text_summary">Отображать текст в нижней части панели настроек</string>
+    <string name="qs_footer_text_string_title">Изменить текст</string>
+    <string name="qs_footer_text_string_summary">Оставить пустым, чтобы вернуть Resurrection Remix</string>
+    <string name="status_bar_footer_cat">Нижний</string> 
 
     <!-- Lockscreen Weather -->
-    <string name="lock_screen_weather_category_title">Lockscreen</string>
-    <string name="lock_screen_show_weather_title">Weather display</string>
-    <string name="lock_screen_show_weather_summaryOn">Weather is shown on Lockscreen</string>
-    <string name="lock_screen_show_weather_summaryOff">Weather is hidden on Lockscreen</string>
-    <string name="lock_screen_show_location_title">Location display</string>
-    <string name="lock_screen_show_location_summaryOn">Location is shown on Lockscreen</string>
-    <string name="lock_screen_show_location_summaryOff">Location is hidden on Lockscreen</string>
-    <string name="lock_screen_weather_condition_icon_title">Condition icon display</string>
-    <string name="lock_screen_weather_condition_icon_summaryOn">Condition icon is shown on Lockscreen</string>
-    <string name="lock_screen_weather_condition_icon_summaryOff">Condition icon is hidden on Lockscreen</string>  
+    <string name="lock_screen_weather_category_title">Экран блокировки</string>
+    <string name="lock_screen_show_weather_title">Отображать погоду</string>
+    <string name="lock_screen_show_weather_summaryOn">Погода показывается на экране блокировки</string>
+    <string name="lock_screen_show_weather_summaryOff">Погода скрыта на экране блокировки</string>
+    <string name="lock_screen_show_location_title">Отображать местоположение</string>
+    <string name="lock_screen_show_location_summaryOn">Местоположение показывается на экране блокировки</string>
+    <string name="lock_screen_show_location_summaryOff">Местоположение скрыто на экране блокировки</string>
+    <string name="lock_screen_weather_condition_icon_title">Отображать значок погоды</string>
+    <string name="lock_screen_weather_condition_icon_summaryOn">Значок погоды показывается на экране блокировки</string>
+    <string name="lock_screen_weather_condition_icon_summaryOff">Значок погоды показывается на экране блокировки</string>  
 
     <!-- Custom Ambient Display Config -->
-    <string name="ambient_display_screen_title">Advanced doze</string>
-    <string name="ambient_display_screen_summary">Custom Ambient Display Configuration</string>
+    <string name="ambient_display_screen_title">Дополнительный сон</string>
+    <string name="ambient_display_screen_summary">Настроить Ambient Display</string>
 
-    <string name="toast">Toast</string>
-    <string name="listview">ListView</string>
-    <string name="icons">Icons</string>
-    <string name="general">General</string>
-    <string name="ka_title">Performance</string>
-    <string name="profiles_settings_title">System profiles</string>
-    <string name="profiles_add">Add</string>
-    <string name="profile_menu_delete">Delete</string>
-    <string name="profile_settings_title">Profile</string>
-    <string name="profile_summary">To configure and use system profiles, turn profiles on.</string>
+    <string name="toast">Тост-уведомление</string>
+    <string name="listview">Анимация списка</string>
+    <string name="icons">Значки</string>
+    <string name="general">Общие</string>
+    <string name="ka_title">Производительность</string>
+    <string name="profiles_settings_title">Профили системы</string>
+    <string name="profiles_add">Добавить</string>
+    <string name="profile_menu_delete">Удалить</string>
+    <string name="profile_settings_title">Профиль</string>
+    <string name="profile_summary">Включите профили, чтобы их настроить.</string>
 
     <!-- Custom LCD density -->
-    <string name="custom_density_settings">Custom LCD density pixel</string>
+    <string name="custom_density_settings">Пользовательская плотность пикселей дисплея</string>
     <string name="custom_density_summary">
-    <xliff:g name="count" example="520">%d</xliff:g> Density pixel</string>
-    <string name="rr_custom_density_summary">Set your own LCD density value</string>
+    <xliff:g name="count" example="520">%d</xliff:g> Плотность пикселей</string>
+    <string name="rr_custom_density_summary">Установите ваше собственное значение плотности экрана</string>
 
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon when available</string>
+    <string name="volte_icon_title">Значок VoLTE</string>
+    <string name="volte_icon_summary">Показывать значок VoLTE при доступности</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
-    <string name="arrow_right">→</string>
-    <string name="arrow_down">↓</string>
-    <string name="hex">Hex:</string>
+    <string name="dialog_color_picker">Выбор цвета</string>
+    <string name="press_color_to_apply">Нажмите на цвет ниже для применения</string>
+    <string name="arrow_right">Стрелка вправо</string>
+    <string name="arrow_down">Стрелка вниз</string>
+    <string name="hex">Hex код:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">Применить</string>
+    <string name="color_default">По умолчанию</string>
     <string name="color_blend_ok">@android:string/ok</string>
     <string name="color_blend_cancel">@android:string/cancel</string>
-    <string name="color_blend_reset">Reset</string>
-    <string name="color_blend_preview">Preview: %1$d%%</string>
-    <string name="color_preview_start">Start</string>
-    <string name="color_preview_end">End</string>
-    <string name="color_preview_between">Between</string>
+    <string name="color_blend_reset">Сброс</string>
+    <string name="color_blend_preview">Предпросмотр: %1$d%%</string>
+    <string name="color_preview_start">Пуск</string>
+    <string name="color_preview_end">Конец</string>
+    <string name="color_preview_between">Между</string>
 
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_default_value">По умолчанию</string>
+    <string name="custom_seekbar_default_value_to_set">Стандартное значение: <xliff:g id="v">%s</xliff:g>\nЗажмите для применения</string>
+    <string name="custom_seekbar_default_value_is_set">Стандартное значение установлено</string>
 
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Screen refresh rate</string>
